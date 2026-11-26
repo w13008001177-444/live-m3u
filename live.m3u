@@ -1,5 +1,5 @@
 #EXTM3U
-# 更新时间: 2026-11-26 12:33:00 (自动生成)
+# 更新时间: 2026-11-26 12:51:28 (自动生成)
 # 频道数量: 3370
 
 #EXTINF:-1 group-title="直播",AdultIPTV.net Anal
@@ -52,30 +52,46 @@ http://cdn.adultiptv.net/russian.m3u8
 http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 group-title="直播",CCTV-1
 http://118.122.144.115:8888/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV-1 (720p)
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="直播",CCTV-10 (720p)
+http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV-10科教
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
 #EXTINF:-1 group-title="直播",CCTV-10科教
 http://113.25.252.226:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV-11
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",CCTV-11 戏曲
 http://183.196.25.171:808/hls/11/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV-11戏曲
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
+#EXTINF:-1 group-title="直播",CCTV-12 (720p)
+http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV-12社会与法
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
 #EXTINF:-1 group-title="直播",CCTV-13
 https://event.pull.hebtv.com/jishi/cp1.m3u8
+#EXTINF:-1 group-title="直播",CCTV-13 (720p)
+http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV-13新闻
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
 #EXTINF:-1 group-title="直播",CCTV-14
 https://event.pull.hebtv.com/jishi/cp2.m3u8
+#EXTINF:-1 group-title="直播",CCTV-14 (1080p)
+http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV-14少儿
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
 #EXTINF:-1 group-title="直播",CCTV-15
 http://118.122.144.115:8888/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV-15 (720p)
+http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV-15音乐
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
 #EXTINF:-1 group-title="直播",CCTV-16奥林匹克
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
+#EXTINF:-1 group-title="直播",CCTV-17 (1080p)
+http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV-17 农业农村
 http://183.196.25.171:808/hls/93/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV-17农业农村
@@ -84,6 +100,8 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
 #EXTINF:-1 group-title="直播",CCTV-2
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1 group-title="直播",CCTV-2 (720p)
+http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV-2财经
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
 #EXTINF:-1 group-title="直播",CCTV-3
@@ -96,10 +114,16 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
 #EXTINF:-1 group-title="直播",CCTV-5体育
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
+#EXTINF:-1 group-title="直播",CCTV-6 (1080p)
+http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 group-title="直播",CCTV-6电影
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
+#EXTINF:-1 group-title="直播",CCTV-7 (720p)
+http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV-7国防军事
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
+#EXTINF:-1 group-title="直播",CCTV-8 (720p)
+http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV-8 电视剧
 http://183.196.25.171:808/hls/77/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV-8电视剧
@@ -115,6 +139,10 @@ https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/liv
 #EXTINF:-1 group-title="直播",CCTV-9纪录
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
 #EXTINF:-1 group-title="直播",CCTV1
+http://123.160.235.204:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV1
+http://183.129.255.66:8480/hls/1/index.m3u8
+#EXTINF:-1 group-title="直播",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV1
 http://38.75.136.137:98/gslb/dsdqca/cctv1hd.m3u8?auth=test20251009
@@ -126,8 +154,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 group-title="直播",CCTV1
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="直播",CCTV1
-http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV1
 http://173.208.212.130:8181/1080p/cctv1.m3u8
 #EXTINF:-1 group-title="直播",CCTV1
@@ -152,10 +178,12 @@ http://116.237.170.51:7788/608807420
 http://175.24.134.198:1234/608807420
 #EXTINF:-1 group-title="直播",CCTV1
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
-#EXTINF:-1 group-title="直播",CCTV1
-http://183.129.255.66:8480/hls/1/index.m3u8
-#EXTINF:-1 group-title="直播",CCTV1
-http://123.160.235.204:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV10
+http://112.123.243.37:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV10
+http://123.160.235.204:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV10
+http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV10
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV10
@@ -172,8 +200,6 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 http://173.208.234.146/live/cctv10.m3u8
 #EXTINF:-1 group-title="直播",CCTV10
 http://192.151.150.154/live/cctv10hd.m3u8
-#EXTINF:-1 group-title="直播",CCTV10
-http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV10
 http://121.199.48.54/live1/cctvxw.m3u8?bt=0&id=cctv10hd&usign=jCw-MkWk9oF-fhwQoml3pQ@@Referer=https://m-live.cctvnews.cctv.com/@@
 #EXTINF:-1 group-title="直播",CCTV10
@@ -196,12 +222,32 @@ http://58.57.40.22:9901/tsfile/live/1010_1.m3u8
 http://218.13.139.26:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV10
 http://www.zknowl.com:1234/624878405
-#EXTINF:-1 group-title="直播",CCTV10
-http://112.123.243.37:50085/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV10
-http://123.160.235.204:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV10
-http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV11
+http://123.160.235.204:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV11
+http://112.123.243.37:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV11
+http://120.40.39.246:352/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV11
+http://58.54.146.106:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV11
+http://183.129.255.66:8480/hls/12/index.m3u8
+#EXTINF:-1 group-title="直播",CCTV11
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="直播",CCTV11
+http://219.147.245.238:25480/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV11
+http://104.152.209.49:8181/720p/cctv11.m3u8
+#EXTINF:-1 group-title="直播",CCTV11
+http://101.66.194.79:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV11
+http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV11
+http://124.90.45.52:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV11
+http://59.39.89.130:60901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV11
+http://124.228.160.3:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV11
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV11
@@ -213,11 +259,7 @@ http://38.75.136.137:98/gslb/dsdqca/qhwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",CCTV11
 http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="直播",CCTV11
-http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="直播",CCTV11
 http://192.151.150.154/live/cctv11hd.m3u8
-#EXTINF:-1 group-title="直播",CCTV11
-http://74.91.26.218:82/live/cctv11hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV11
 http://173.208.234.146/live/cctv11.m3u8
 #EXTINF:-1 group-title="直播",CCTV11
@@ -233,8 +275,6 @@ http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
 #EXTINF:-1 group-title="直播",CCTV11
 http://116.237.170.51:7788/667987558
 #EXTINF:-1 group-title="直播",CCTV11
-http://183.129.255.66:8480/hls/12/index.m3u8
-#EXTINF:-1 group-title="直播",CCTV11
 http://218.13.139.26:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV11
 http://58.57.40.22:9901/tsfile/live/1011_1.m3u8
@@ -242,30 +282,24 @@ http://58.57.40.22:9901/tsfile/live/1011_1.m3u8
 http://www.zknowl.com:1234/667987558
 #EXTINF:-1 group-title="直播",CCTV11
 http://120.76.248.139/live/bfgd/4200000130.m3u8
-#EXTINF:-1 group-title="直播",CCTV11
-http://123.160.235.204:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV11
-http://112.123.243.37:50085/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV11
-http://120.40.39.246:352/newlive/live/hls/12/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV11
-http://58.54.146.106:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV11
-http://219.147.245.238:25480/newlive/live/hls/12/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV11
-http://104.152.209.49:8181/720p/cctv11.m3u8
-#EXTINF:-1 group-title="直播",CCTV11
-http://101.66.194.79:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV11
-http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV11
-http://124.90.45.52:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV11
-http://59.39.89.130:60901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV11
-http://124.228.160.3:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV12
 http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV12
+http://123.160.235.204:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV12
+http://112.123.243.37:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV12
+http://120.40.39.246:352/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV12
+http://183.129.255.66:8480/hls/13/index.m3u8
+#EXTINF:-1 group-title="直播",CCTV12
+http://58.54.146.106:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV12
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="直播",CCTV12
+http://124.90.45.52:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV12
+http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV12
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV12
@@ -279,15 +313,11 @@ http://192.151.150.154/live/cctv12hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV12
 https://epg.pw/stream/aedb71e61961cd2a5a5b9a8a83b8ae489c9408e6b420593aecb92cc36de628fe.m3u8
 #EXTINF:-1 group-title="直播",CCTV12
-http://74.91.26.218:82/live/cctv12hd.m3u8
-#EXTINF:-1 group-title="直播",CCTV12
 http://173.208.234.146/live/cctv12.m3u8
 #EXTINF:-1 group-title="直播",CCTV12
 http://107.150.60.122/live/cctv12hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV12
 http://221.226.51.220:50081/newlive/live/hls/13/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV12
-http://183.129.255.66:8480/hls/13/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV12
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv12hd
 #EXTINF:-1 group-title="直播",CCTV12
@@ -306,22 +336,30 @@ http://60.187.246.195:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=
 http://120.76.248.139/live/bfgd/4200000131.m3u8
 #EXTINF:-1 group-title="直播",CCTV12
 http://119.29.233.26:1234/673168185
-#EXTINF:-1 group-title="直播",CCTV12
-http://123.160.235.204:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV12
-http://112.123.243.37:50085/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV12
-http://120.40.39.246:352/newlive/live/hls/13/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV12
-http://58.54.146.106:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV12
-http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="直播",CCTV12
-http://124.90.45.52:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV12
-http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV13
 http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 group-title="直播",CCTV13
+http://123.160.235.204:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV13
+http://183.129.255.66:8480/hls/14/index.m3u8
+#EXTINF:-1 group-title="直播",CCTV13
+http://fuxin.yunjifei.top:999/tsfile/live/0013_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",CCTV13
+http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV13
+http://58.54.146.106:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV13
+http://120.40.39.246:352/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV13
+http://219.147.245.238:25480/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV13
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="直播",CCTV13
+http://124.90.45.52:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV13
+http://119.39.9.8:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV13
+http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV13
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV13
@@ -333,11 +371,7 @@ http://38.75.136.137:98/gslb/dsdqca/hubwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",CCTV13
 https://10.fast.hidns.vip/163189/cctv13/
 #EXTINF:-1 group-title="直播",CCTV13
-http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="直播",CCTV13
 http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-#EXTINF:-1 group-title="直播",CCTV13
-http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV13
 https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 #EXTINF:-1 group-title="直播",CCTV13
@@ -353,8 +387,6 @@ http://116.237.170.51:7788/608807423
 #EXTINF:-1 group-title="直播",CCTV13
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
 #EXTINF:-1 group-title="直播",CCTV13
-http://183.129.255.66:8480/hls/14/index.m3u8
-#EXTINF:-1 group-title="直播",CCTV13
 http://121.199.48.54/live1/cctvxw.m3u8?bt=2&id=cctv13hd&usign=jCw-MkWk9oF-fhwQoml3pQ@@Referer=https://m-live.cctvnews.cctv.com/@@
 #EXTINF:-1 group-title="直播",CCTV13
 http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -362,24 +394,18 @@ http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=
 http://175.24.134.198:1234/608807423
 #EXTINF:-1 group-title="直播",CCTV13
 http://www.zknowl.com:1234/608807423
-#EXTINF:-1 group-title="直播",CCTV13
-http://123.160.235.204:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV13
-http://fuxin.yunjifei.top:999/tsfile/live/0013_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",CCTV13
-http://221.7.175.154:8445/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV13
-http://58.54.146.106:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV13
-http://120.40.39.246:352/newlive/live/hls/14/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV13
-http://219.147.245.238:25480/newlive/live/hls/14/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV13
-http://124.90.45.52:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV13
-http://119.39.9.8:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV13
-http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV14
+http://123.160.235.204:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV14
+http://120.40.39.246:352/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV14
+http://218.13.139.26:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV14
+http://49.70.189.149:60001/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV14
+http://219.147.245.238:25480/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV14
+http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV14
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV14
@@ -392,8 +418,6 @@ http://38.75.136.137:98/gslb/dsdqca/chcdzdyhd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",CCTV14
 http://192.151.150.154/live/cctv14hd.m3u8
-#EXTINF:-1 group-title="直播",CCTV14
-http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV14
 http://204.12.221.218:8181/3m1080p/cctv14.m3u8
 #EXTINF:-1 group-title="直播",CCTV14
@@ -413,21 +437,29 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
 #EXTINF:-1 group-title="直播",CCTV14
 http://175.24.134.198:1234/624878440
 #EXTINF:-1 group-title="直播",CCTV14
-http://49.70.189.149:60001/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV14
 http://61.136.172.236:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV14
-http://218.13.139.26:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV14
 http://183.11.239.36:808/hls/32/index.m3u8
-#EXTINF:-1 group-title="直播",CCTV14
-http://123.160.235.204:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV14
-http://120.40.39.246:352/newlive/live/hls/15/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV14
-http://219.147.245.238:25480/newlive/live/hls/15/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV14
-http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV15
+http://123.160.235.204:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV15
+http://115.57.90.137:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV15
+http://fuxin.yunjifei.top:999/tsfile/live/0015_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",CCTV15
+http://58.54.146.106:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV15
+http://183.129.255.66:8480/hls/16/index.m3u8
+#EXTINF:-1 group-title="直播",CCTV15
+http://219.147.245.238:25480/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV15
+http://101.66.195.24:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV15
+http://119.39.9.8:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV15
+http://124.90.45.52:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV15
+http://59.39.89.130:60901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV15
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV15
@@ -443,8 +475,6 @@ http://192.151.150.154/live/cctv15hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV15
 http://198.204.228.26/live/cctv15hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV15
-http://74.91.26.218:82/live/cctv15hd.m3u8
-#EXTINF:-1 group-title="直播",CCTV15
 http://173.208.212.130:8181/1080p/cctv15.m3u8
 #EXTINF:-1 group-title="直播",CCTV15
 http://204.12.221.218:8181/3m1080p/cctv15.m3u8
@@ -459,8 +489,6 @@ http://175.24.134.198:1234/673168223
 #EXTINF:-1 group-title="直播",CCTV15
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
 #EXTINF:-1 group-title="直播",CCTV15
-http://183.129.255.66:8480/hls/16/index.m3u8
-#EXTINF:-1 group-title="直播",CCTV15
 http://121.199.48.54/live1/dsdq.m3u8?id=cctv15hd&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 group-title="直播",CCTV15
 http://49.70.189.149:60001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -468,24 +496,10 @@ http://49.70.189.149:60001/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=
 http://116.237.170.51:7788/673168223
 #EXTINF:-1 group-title="直播",CCTV15
 http://61.136.172.236:9901/tsfile/live/0015_1.m3u8
-#EXTINF:-1 group-title="直播",CCTV15
-http://123.160.235.204:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV15
-http://115.57.90.137:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV15
-http://fuxin.yunjifei.top:999/tsfile/live/0015_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",CCTV15
-http://58.54.146.106:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV15
-http://219.147.245.238:25480/newlive/live/hls/16/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV15
-http://101.66.195.24:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV15
-http://119.39.9.8:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV15
-http://124.90.45.52:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV15
-http://59.39.89.130:60901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV16
+http://219.147.245.238:25480/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV16
+http://104.152.209.49:8181/720p/cctv16.m3u8
 #EXTINF:-1 group-title="直播",CCTV16
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV16
@@ -526,12 +540,16 @@ http://121.199.48.54/live1/dsdq.m3u8?id=cctv16hd&usign=jCw-MkWk9oF-fhwQoml3pQ
 http://gmxw.7766.org:808/hls/169/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV16
 http://183.129.255.66:8480/hls/17/index.m3u8
-#EXTINF:-1 group-title="直播",CCTV16
-http://219.147.245.238:25480/newlive/live/hls/17/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV16
-http://104.152.209.49:8181/720p/cctv16.m3u8
 #EXTINF:-1 group-title="直播",CCTV17
 https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="直播",CCTV17
+http://183.129.255.66:8480/hls/18/index.m3u8
+#EXTINF:-1 group-title="直播",CCTV17
+http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV17
+http://218.13.139.26:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV17
+http://59.39.89.130:60901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV17
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV17
@@ -546,8 +564,6 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="直播",CCTV17
 http://192.151.150.154/live/cctv17hd.m3u8
-#EXTINF:-1 group-title="直播",CCTV17
-http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV17
 http://173.208.234.146/live/cctv17.m3u8
 #EXTINF:-1 group-title="直播",CCTV17
@@ -565,17 +581,17 @@ http://116.237.170.51:7788/673168256
 #EXTINF:-1 group-title="直播",CCTV17
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
 #EXTINF:-1 group-title="直播",CCTV17
-http://183.129.255.66:8480/hls/18/index.m3u8
-#EXTINF:-1 group-title="直播",CCTV17
 http://175.24.134.198:1234/673168256
 #EXTINF:-1 group-title="直播",CCTV17
 http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
-#EXTINF:-1 group-title="直播",CCTV17
-http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV17
-http://218.13.139.26:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV17
-http://59.39.89.130:60901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV2
+http://123.160.235.204:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV2
+http://183.223.157.33:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV2
+http://173.208.234.146/live/cctv2.m3u8
+#EXTINF:-1 group-title="直播",CCTV2
+http://119.39.9.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="直播",CCTV2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV2
@@ -584,8 +600,6 @@ http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqca/gzwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",CCTV2
 http://192.151.150.154/live/cctv2hd.m3u8
-#EXTINF:-1 group-title="直播",CCTV2
-http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV2
 http://69.30.245.50/live/cctv2.m3u8
 #EXTINF:-1 group-title="直播",CCTV2
@@ -598,8 +612,6 @@ http://107.150.60.122/live/cctv2hd.m3u8
 http://173.208.212.130:8181/1080p/cctv2.m3u8
 #EXTINF:-1 group-title="直播",CCTV2
 http://198.204.228.26/live/cctv2hd.m3u8
-#EXTINF:-1 group-title="直播",CCTV2
-http://173.208.234.146/live/cctv2.m3u8
 #EXTINF:-1 group-title="直播",CCTV2
 http://sagrad.org:8181/3m1080p/cctv2.m3u8
 #EXTINF:-1 group-title="直播",CCTV2
@@ -616,12 +628,14 @@ http://221.226.51.220:50081/newlive/live/hls/2/live.m3u8
 http://121.199.48.54/live1/cctvxw.m3u8?bt=2&id=cctv2hd&usign=jCw-MkWk9oF-fhwQoml3pQ@@Referer=https://m-live.cctvnews.cctv.com/@@
 #EXTINF:-1 group-title="直播",CCTV2
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
-#EXTINF:-1 group-title="直播",CCTV2
-http://123.160.235.204:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV2
-http://183.223.157.33:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV2
-http://119.39.9.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV3
+http://123.160.235.204:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV3
+http://101.66.195.24:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV3
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="直播",CCTV3
+http://119.39.9.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="直播",CCTV3
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV3
@@ -634,8 +648,6 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="直播",CCTV3
 http://192.151.150.154/live/cctv3hd.m3u8
-#EXTINF:-1 group-title="直播",CCTV3
-http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV3
 http://69.30.245.50/live/cctv3.m3u8
 #EXTINF:-1 group-title="直播",CCTV3
@@ -662,12 +674,32 @@ http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
 http://121.199.48.54/live1/dsdq.m3u8?id=cctv3hd&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 group-title="直播",CCTV3
 http://218.13.139.26:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV3
-http://123.160.235.204:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV3
-http://101.66.195.24:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV3
-http://119.39.9.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV4
+http://123.160.235.204:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV4
+http://222.223.41.27:8888/hls/4/index.m3u8
+#EXTINF:-1 group-title="直播",CCTV4
+http://183.129.255.66:8480/hls/4/index.m3u8
+#EXTINF:-1 group-title="直播",CCTV4
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
+#EXTINF:-1 group-title="直播",CCTV4
+http://120.40.39.246:352/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV4
+http://221.7.175.154:8445/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV4
+http://183.223.157.33:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV4
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="直播",CCTV4
+http://219.147.245.238:25480/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV4
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="直播",CCTV4
+http://192.151.150.154/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="直播",CCTV4
+http://104.152.209.49:8181/720p/cctv4.m3u8
+#EXTINF:-1 group-title="直播",CCTV4
+http://119.39.9.8:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="直播",CCTV4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV4
@@ -683,11 +715,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 #EXTINF:-1 group-title="直播",CCTV4
 http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/119452.ts
 #EXTINF:-1 group-title="直播",CCTV4
-http://192.151.150.154/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="直播",CCTV4
 http://192.151.150.154/live/cctv4k.m3u8
-#EXTINF:-1 group-title="直播",CCTV4
-http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV4
 http://69.30.245.50/live/cctv4.m3u8
 #EXTINF:-1 group-title="直播",CCTV4
@@ -708,28 +736,6 @@ http://221.226.51.220:50081/newlive/live/hls/4/live.m3u8
 http://116.237.170.51:7788/608807416
 #EXTINF:-1 group-title="直播",CCTV4
 http://116.237.170.51:7788/608807419
-#EXTINF:-1 group-title="直播",CCTV4
-http://123.160.235.204:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV4
-http://222.223.41.27:8888/hls/4/index.m3u8
-#EXTINF:-1 group-title="直播",CCTV4
-http://183.129.255.66:8480/hls/4/index.m3u8
-#EXTINF:-1 group-title="直播",CCTV4
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
-#EXTINF:-1 group-title="直播",CCTV4
-http://120.40.39.246:352/newlive/live/hls/4/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV4
-http://221.7.175.154:8445/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV4
-http://183.223.157.33:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV4
-http://219.147.245.238:25480/newlive/live/hls/4/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV4
-http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="直播",CCTV4
-http://104.152.209.49:8181/720p/cctv4.m3u8
-#EXTINF:-1 group-title="直播",CCTV4
-http://119.39.9.8:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="直播",CCTV4K
 http://107.150.52.50:82/live/cctv4k.m3u8
 #EXTINF:-1 group-title="直播",CCTV4K
@@ -748,6 +754,18 @@ http://182.135.66.163:1888/rtp/239.94.0.20:5140
 http://183.164.236.213:8888/rtp/238.1.78.137:6968
 #EXTINF:-1 group-title="直播",CCTV4K
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
+#EXTINF:-1 group-title="直播",CCTV5
+http://123.160.235.204:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV5
+http://101.66.195.24:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV5
+http://110.72.84.64:808/hls/38/index.m3u8
+#EXTINF:-1 group-title="直播",CCTV5
+http://104.152.209.49:8181/720p/cctv5.m3u8
+#EXTINF:-1 group-title="直播",CCTV5
+http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV5
+http://124.90.45.52:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV5
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV5
@@ -773,8 +791,6 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 #EXTINF:-1 group-title="直播",CCTV5
 http://173.208.234.146/live/cctv5.m3u8
 #EXTINF:-1 group-title="直播",CCTV5
-http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV5
 http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
 #EXTINF:-1 group-title="直播",CCTV5
 http://175.24.134.198:1234/641886683
@@ -788,18 +804,20 @@ http://116.237.170.51:7788/641886683
 http://121.199.48.54/live1/dsdq.m3u8?id=cctv5hd&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 group-title="直播",CCTV5
 http://61.136.172.236:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 group-title="直播",CCTV5
-http://123.160.235.204:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV5
-http://101.66.195.24:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV5
-http://110.72.84.64:808/hls/38/index.m3u8
-#EXTINF:-1 group-title="直播",CCTV5
-http://104.152.209.49:8181/720p/cctv5.m3u8
-#EXTINF:-1 group-title="直播",CCTV5
-http://124.90.45.52:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV5+
 http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV5+
+http://119.125.131.84:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="直播",CCTV5+
+http://110.72.84.44:808/hls/14/index.m3u8
+#EXTINF:-1 group-title="直播",CCTV5+
+http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV5+
+http://fuxin.yunjifei.top:999/tsfile/live/0016_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",CCTV5+
+http://124.228.160.3:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",CCTV5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV5+
@@ -808,8 +826,6 @@ https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 http://192.151.150.154/live/cctv5p.m3u8
 #EXTINF:-1 group-title="直播",CCTV5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 group-title="直播",CCTV5+
-http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",CCTV5+
 http://173.208.234.146/live/cctv5p.m3u8
 #EXTINF:-1 group-title="直播",CCTV5+
@@ -840,16 +856,24 @@ http://www.zknowl.com:1234/641886773
 http://116.52.173.186:1234/641886773
 #EXTINF:-1 group-title="直播",CCTV5+
 http://121.199.48.54/live1/dsdq.m3u8?id=cctv5p&usign=jCw-MkWk9oF-fhwQoml3pQ
-#EXTINF:-1 group-title="直播",CCTV5+
-http://119.125.131.84:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="直播",CCTV5+
-http://110.72.84.44:808/hls/14/index.m3u8
-#EXTINF:-1 group-title="直播",CCTV5+
-http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV5+
-http://fuxin.yunjifei.top:999/tsfile/live/0016_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",CCTV5+
-http://124.228.160.3:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV6
+http://123.160.235.204:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV6
+http://112.123.243.37:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV6
+http://101.66.199.175:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV6
+http://101.66.195.24:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV6
+http://120.40.39.246:352/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV6
+http://183.129.255.66:8480/hls/7/index.m3u8
+#EXTINF:-1 group-title="直播",CCTV6
+http://173.208.234.146/live/cctv6.m3u8
+#EXTINF:-1 group-title="直播",CCTV6
+http://173.208.212.130:8181/720p/cctv6.m3u8
+#EXTINF:-1 group-title="直播",CCTV6
+http://204.12.221.218:8181/3m1080p/cctv6.m3u8
 #EXTINF:-1 group-title="直播",CCTV6
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV6
@@ -859,21 +883,13 @@ http://38.75.136.137:98/gslb/dsdqca/hinwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",CCTV6
 https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
 #EXTINF:-1 group-title="直播",CCTV6
-http://69.30.245.50/live/cctv6.m3u8
-#EXTINF:-1 group-title="直播",CCTV6
 http://74.91.26.218:82/live/cctv6hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV6
 https://epg.pw/stream/c2a78d34141bd7ad12b19b2ab7f3f60f2b8a4c3bdd5c573889aad5bc3b331fe1.m3u8
 #EXTINF:-1 group-title="直播",CCTV6
 http://192.151.150.154/live/cctv6hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV6
-http://173.208.212.130:8181/720p/cctv6.m3u8
-#EXTINF:-1 group-title="直播",CCTV6
-http://173.208.234.146/live/cctv6.m3u8
-#EXTINF:-1 group-title="直播",CCTV6
 http://198.204.228.26/live/cctv6hd.m3u8
-#EXTINF:-1 group-title="直播",CCTV6
-http://204.12.221.218:8181/3m1080p/cctv6.m3u8
 #EXTINF:-1 group-title="直播",CCTV6
 http://sagrad.org:8181/3m1080p/cctv6.m3u8
 #EXTINF:-1 group-title="直播",CCTV6
@@ -890,18 +906,24 @@ http://61.136.172.236:9901/tsfile/live/0006_1.m3u8
 http://116.237.170.51:7788/624878396
 #EXTINF:-1 group-title="直播",CCTV6
 http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
-#EXTINF:-1 group-title="直播",CCTV6
-http://123.160.235.204:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV6
-http://112.123.243.37:50085/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV6
-http://101.66.199.175:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV6
-http://101.66.195.24:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV6
-http://120.40.39.246:352/newlive/live/hls/7/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV6
-http://183.129.255.66:8480/hls/7/index.m3u8
+#EXTINF:-1 group-title="直播",CCTV7
+http://123.160.235.204:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV7
+http://112.123.243.37:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV7
+http://219.147.245.238:25480/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV7
+http://fuxin.yunjifei.top:999/tsfile/live/0007_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",CCTV7
+http://222.223.41.27:8888/hls/7/index.m3u8
+#EXTINF:-1 group-title="直播",CCTV7
+http://120.40.39.246:352/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV7
+http://183.129.255.66:8480/hls/8/index.m3u8
+#EXTINF:-1 group-title="直播",CCTV7
+http://104.152.209.49:8181/720p/cctv7.m3u8
+#EXTINF:-1 group-title="直播",CCTV7
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",CCTV7
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV7
@@ -909,13 +931,9 @@ http://38.75.136.137:98/gslb/dsdqca/cctv7hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",CCTV7
 http://38.75.136.137:98/gslb/dsdqca/sswshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",CCTV7
-http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="直播",CCTV7
 http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="直播",CCTV7
 http://192.151.150.154/live/cctv7hd.m3u8
-#EXTINF:-1 group-title="直播",CCTV7
-http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV7
 http://173.208.234.146/live/cctv7.m3u8
 #EXTINF:-1 group-title="直播",CCTV7
@@ -942,30 +960,24 @@ http://58.57.40.22:9901/tsfile/live/1007_1.m3u8
 http://218.13.139.26:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV7
 http://60.187.246.195:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV7
-http://123.160.235.204:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV7
-http://112.123.243.37:50085/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV7
-http://219.147.245.238:25480/newlive/live/hls/8/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV7
-http://fuxin.yunjifei.top:999/tsfile/live/0007_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",CCTV7
-http://222.223.41.27:8888/hls/7/index.m3u8
-#EXTINF:-1 group-title="直播",CCTV7
-http://120.40.39.246:352/newlive/live/hls/8/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV7
-http://183.129.255.66:8480/hls/8/index.m3u8
-#EXTINF:-1 group-title="直播",CCTV7
-http://104.152.209.49:8181/720p/cctv7.m3u8
+#EXTINF:-1 group-title="直播",CCTV8
+http://112.123.243.37:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV8
+http://123.160.235.204:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV8
+http://173.208.212.130:8181/1080p/cctv8.m3u8
+#EXTINF:-1 group-title="直播",CCTV8
+http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="直播",CCTV8
+http://sagrad.org:8181/3m1080p/cctv8.m3u8
+#EXTINF:-1 group-title="直播",CCTV8
+http://124.90.45.52:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV8
 http://38.75.136.137:98/gslb/dsdqca/cctv8hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",CCTV8
 http://38.75.136.137:98/gslb/dsdqca/gxwshd.m3u8?auth=test20251009
-#EXTINF:-1 group-title="直播",CCTV8
-http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",CCTV8
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 #EXTINF:-1 group-title="直播",CCTV8
@@ -974,8 +986,6 @@ http://192.151.150.154/live/cctv8hd.m3u8
 http://173.208.212.130:8181/720p/cctv8.m3u8
 #EXTINF:-1 group-title="直播",CCTV8
 http://69.30.245.50/live/cctv8.m3u8
-#EXTINF:-1 group-title="直播",CCTV8
-http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV8
 http://173.208.234.146/live/cctv8.m3u8
 #EXTINF:-1 group-title="直播",CCTV8
@@ -987,8 +997,6 @@ http://198.204.228.26/live/cctv8hd.m3u8
 #EXTINF:-1 group-title="直播",CCTV8
 http://204.12.221.218:8181/3m1080p/cctv8.m3u8
 #EXTINF:-1 group-title="直播",CCTV8
-http://sagrad.org:8181/3m1080p/cctv8.m3u8
-#EXTINF:-1 group-title="直播",CCTV8
 http://183.129.255.66:8480/hls/9/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV8
 http://175.24.134.198:1234/624878356
@@ -998,14 +1006,6 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8k
 http://116.237.170.51:7788/624878356
 #EXTINF:-1 group-title="直播",CCTV8
 http://60.187.246.195:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV8
-http://112.123.243.37:50085/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV8
-http://123.160.235.204:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV8
-http://173.208.212.130:8181/1080p/cctv8.m3u8
-#EXTINF:-1 group-title="直播",CCTV8
-http://124.90.45.52:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV8K
 http://107.150.52.50:82/live/cctv8k.m3u8
 #EXTINF:-1 group-title="直播",CCTV8K
@@ -1016,6 +1016,32 @@ http://198.204.240.250:82/live/cctv8k.m3u8
 http://104.152.209.49:8181/720p/cctv8k.m3u8
 #EXTINF:-1 group-title="直播",CCTV8K
 http://107.150.60.122/live/cctv8k.m3u8
+#EXTINF:-1 group-title="直播",CCTV9
+http://112.123.243.37:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV9
+http://123.160.235.204:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV9
+http://120.40.39.246:352/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV9
+http://219.147.245.238:25480/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV9
+http://60.223.94.153:9003/hls/9/index.m3u8
+#EXTINF:-1 group-title="直播",CCTV9
+http://58.54.146.106:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV9
+http://218.13.139.26:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV9
+http://119.39.9.8:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",CCTV9
+http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",CCTV9
+http://221.226.51.220:50081/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 group-title="直播",CCTV9
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c012d32634f37806e4b0713c9773272f
+#EXTINF:-1 group-title="直播",CCTV9
+https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f9bf46adb320f976f75b41d47ffb92d5
+#EXTINF:-1 group-title="直播",CCTV9
+http://124.228.160.3:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV9
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 group-title="直播",CCTV9
@@ -1045,8 +1071,6 @@ http://121.199.48.54/live1/cctvxw.m3u8?bt=2&id=cctv9hd&usign=jCw-MkWk9oF-fhwQoml
 #EXTINF:-1 group-title="直播",CCTV9
 http://175.24.134.198:1234/673168140
 #EXTINF:-1 group-title="直播",CCTV9
-http://221.226.51.220:50081/newlive/live/hls/10/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV9
 http://121.199.48.54/live1/dsdq.m3u8?id=cctv9hd&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 group-title="直播",CCTV9
 http://61.136.172.236:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1056,30 +1080,6 @@ http://58.57.40.22:9901/tsfile/live/1009_1.m3u8
 http://119.29.233.26:1234/673168140
 #EXTINF:-1 group-title="直播",CCTV9
 http://116.237.170.51:7788/673168140
-#EXTINF:-1 group-title="直播",CCTV9
-http://112.123.243.37:50085/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV9
-http://123.160.235.204:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV9
-http://120.40.39.246:352/newlive/live/hls/10/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV9
-http://219.147.245.238:25480/newlive/live/hls/10/live.m3u8
-#EXTINF:-1 group-title="直播",CCTV9
-http://60.223.94.153:9003/hls/9/index.m3u8
-#EXTINF:-1 group-title="直播",CCTV9
-http://58.54.146.106:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV9
-http://218.13.139.26:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV9
-http://119.39.9.8:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",CCTV9
-http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",CCTV9
-https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=c012d32634f37806e4b0713c9773272f
-#EXTINF:-1 group-title="直播",CCTV9
-https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f9bf46adb320f976f75b41d47ffb92d5
-#EXTINF:-1 group-title="直播",CCTV9
-http://124.228.160.3:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",CCTV怀旧剧场
 https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="直播",CCTV文化精品
@@ -1421,6 +1421,10 @@ http://ls.qingting.fm/live/4885.m3u8
 #EXTINF:-1 group-title="直播",三沙卫视
 https://srs.ssws.tv/video/sstv-10/index.m3u8
 #EXTINF:-1 group-title="直播",三沙卫视
+http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
+#EXTINF:-1 group-title="直播",三沙卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
+#EXTINF:-1 group-title="直播",三沙卫视
 https://iptv.catvod.com/catvod.php?id=ssws
 #EXTINF:-1 group-title="直播",三沙卫视
 http://204.12.221.218:8181/3m1080p/ssws.m3u8
@@ -1438,10 +1442,6 @@ http://198.204.228.26/live/ssws.m3u8
 http://2d026c.tv.netsite.cc/proxy/1337100319/1337100319.m3u8
 #EXTINF:-1 group-title="直播",三沙卫视
 http://116.237.170.51:7788/961023778
-#EXTINF:-1 group-title="直播",三沙卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws
-#EXTINF:-1 group-title="直播",三沙卫视
-http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
 #EXTINF:-1 group-title="直播",三沙卫视
 http://175.24.134.198:1234/961023778
 #EXTINF:-1 group-title="直播",三沙卫视
@@ -1507,6 +1507,24 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 group-title="直播",东南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",东南卫视
+http://123.160.235.204:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",东南卫视
+http://101.66.195.24:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",东南卫视
+http://115.57.90.137:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",东南卫视
+http://60.187.246.34:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",东南卫视
+http://221.226.51.220:50081/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 group-title="直播",东南卫视
+http://112.123.243.37:50085/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",东南卫视
+http://61.138.99.166:10080/hls/88/index.m3u8
+#EXTINF:-1 group-title="直播",东南卫视
+http://36.136.38.87:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",东南卫视
+http://124.228.160.3:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",东南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:-1 group-title="直播",东南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
@@ -1546,28 +1564,22 @@ http://60.187.246.195:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=
 http://120.76.248.139/live/bfgd/4200000483.m3u8
 #EXTINF:-1 group-title="直播",东南卫视
 http://61.136.172.236:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",东南卫视
-http://123.160.235.204:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",东南卫视
-http://101.66.195.24:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",东南卫视
-http://115.57.90.137:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",东南卫视
-http://60.187.246.34:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",东南卫视
-http://221.226.51.220:50081/newlive/live/hls/20/live.m3u8
-#EXTINF:-1 group-title="直播",东南卫视
-http://112.123.243.37:50085/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",东南卫视
-http://61.138.99.166:10080/hls/88/index.m3u8
-#EXTINF:-1 group-title="直播",东南卫视
-http://36.136.38.87:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",东南卫视
-http://124.228.160.3:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",东方卫视
 http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 #EXTINF:-1 group-title="直播",东方卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="直播",东方卫视
+http://123.160.235.204:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",东方卫视
+http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",东方卫视
+http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="直播",东方卫视
+http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="直播",东方卫视
+http://124.90.45.52:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",东方卫视
+http://124.228.160.3:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",东方卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 group-title="直播",东方卫视
@@ -1576,10 +1588,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 http://38.75.136.137:98/gslb/dsdqca/dfwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",东方卫视
 https://iptv.catvod.com/catvod.php?id=dfws
-#EXTINF:-1 group-title="直播",东方卫视
-http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="直播",东方卫视
-http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",东方卫视
 https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
 #EXTINF:-1 group-title="直播",东方卫视
@@ -1608,14 +1616,6 @@ http://175.24.134.198:1234/651632648
 http://183.11.239.36:808/hls/114/index.m3u8
 #EXTINF:-1 group-title="直播",东方卫视
 http://119.29.233.26:1234/651632648
-#EXTINF:-1 group-title="直播",东方卫视
-http://123.160.235.204:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",东方卫视
-http://112.123.243.37:50085/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",东方卫视
-http://124.90.45.52:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",东方卫视
-http://124.228.160.3:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",东方卫视4K
 https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 #EXTINF:-1 group-title="直播",东方卫视4K
@@ -1817,6 +1817,26 @@ https://p2.ioioz.com/xgplayer.php?id=https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 #EXTINF:-1 group-title="直播",云南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",云南卫视
+http://123.160.235.204:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",云南卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0119_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",云南卫视
+http://121.19.134.48:808/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",云南卫视
+http://112.123.243.37:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",云南卫视
+http://101.66.195.24:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",云南卫视
+http://101.66.199.175:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",云南卫视
+http://101.66.198.117:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",云南卫视
+http://124.90.45.52:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",云南卫视
+http://119.39.9.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",云南卫视
+http://61.138.99.166:10080/hls/92/index.m3u8
+#EXTINF:-1 group-title="直播",云南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 group-title="直播",云南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225726/index.m3u8
@@ -1845,31 +1865,11 @@ http://58.57.40.22:9901/tsfile/live/1047_1.m3u8
 #EXTINF:-1 group-title="直播",云南卫视
 http://183.11.239.36:808/hls/52/index.m3u8
 #EXTINF:-1 group-title="直播",云南卫视
-http://124.90.45.52:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",云南卫视
-http://119.39.9.8:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",云南卫视
 http://120.198.95.220:9901/tsfile/live/1007_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",云南卫视
-http://112.123.243.37:50085/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="直播",云南卫视
 http://36.136.38.87:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",云南卫视
 http://101.66.194.29:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",云南卫视
-http://123.160.235.204:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",云南卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0119_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",云南卫视
-http://121.19.134.48:808/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",云南卫视
-http://101.66.195.24:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",云南卫视
-http://101.66.199.175:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",云南卫视
-http://101.66.198.117:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",云南卫视
-http://61.138.99.166:10080/hls/92/index.m3u8
 #EXTINF:-1 group-title="直播",云和新闻
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?
 #EXTINF:-1 group-title="直播",云和新闻综合
@@ -2033,6 +2033,22 @@ https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8
 #EXTINF:-1 group-title="直播",兵团八师石河子新闻综合
 http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
 #EXTINF:-1 group-title="直播",兵团卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0115_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",兵团卫视
+http://222.71.55.147:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",兵团卫视
+http://221.7.175.154:8445/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",兵团卫视
+http://112.123.243.37:50085/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",兵团卫视
+http://59.39.89.130:60901/tsfile/live/0125_9.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",兵团卫视
+http://61.138.99.166:10080/hls/89/index.m3u8
+#EXTINF:-1 group-title="直播",兵团卫视
+http://120.238.84.45:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",兵团卫视
+http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
+#EXTINF:-1 group-title="直播",兵团卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 group-title="直播",兵团卫视
 https://iptv.catvod.com/catvod.php?id=btws
@@ -2049,8 +2065,6 @@ http://204.12.221.218:8181/3m1080p/btws.m3u8
 #EXTINF:-1 group-title="直播",兵团卫视
 http://192.151.150.154/live/btws.m3u8
 #EXTINF:-1 group-title="直播",兵团卫视
-http://222.71.55.147:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",兵团卫视
 http://116.237.170.51:7788/956923145
 #EXTINF:-1 group-title="直播",兵团卫视
 http://175.24.134.198:1234/956923145
@@ -2063,29 +2077,35 @@ http://www.zknowl.com:1234/956923145
 #EXTINF:-1 group-title="直播",兵团卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btws
 #EXTINF:-1 group-title="直播",兵团卫视
-http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
-#EXTINF:-1 group-title="直播",兵团卫视
 http://113.124.186.195:7788/956923145
 #EXTINF:-1 group-title="直播",兵团卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0115_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",兵团卫视
 http://116.52.173.186:1234/956923145
-#EXTINF:-1 group-title="直播",兵团卫视
-http://112.123.243.37:50085/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",兵团卫视
-http://221.7.175.154:8445/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",兵团卫视
-http://59.39.89.130:60901/tsfile/live/0125_9.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",兵团卫视
-http://61.138.99.166:10080/hls/89/index.m3u8
-#EXTINF:-1 group-title="直播",兵团卫视
-http://120.238.84.45:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",内蒙古卫视
 https://live.264788.xyz/channel/neimengguweishi?streamid=3e7340acf8869ac1c7dad1bb836dcd35&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="直播",内蒙古卫视
 http://120.76.248.139/live/bfgd/4200000110.m3u8
 #EXTINF:-1 group-title="直播",内蒙古卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="直播",内蒙古卫视
+http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+#EXTINF:-1 group-title="直播",内蒙古卫视
+http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",内蒙古卫视
+http://222.71.55.147:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",内蒙古卫视
+http://107.150.60.122/live/nmgws.m3u8
+#EXTINF:-1 group-title="直播",内蒙古卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws
+#EXTINF:-1 group-title="直播",内蒙古卫视
+http://61.138.99.166:10080/hls/31/index.m3u8
+#EXTINF:-1 group-title="直播",内蒙古卫视
+http://118.193.115.2:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",内蒙古卫视
+http://120.198.86.186:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",内蒙古卫视
+http://59.39.89.130:60901/tsfile/live/0125_21.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",内蒙古卫视
+http://218.13.170.98:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",内蒙古卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 group-title="直播",内蒙古卫视
@@ -2103,33 +2123,13 @@ http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub
 #EXTINF:-1 group-title="直播",内蒙古卫视
 http://192.151.150.154/live/nmgws.m3u8
 #EXTINF:-1 group-title="直播",内蒙古卫视
-http://107.150.60.122/live/nmgws.m3u8
-#EXTINF:-1 group-title="直播",内蒙古卫视
 http://198.204.228.26/live/nmgws.m3u8
 #EXTINF:-1 group-title="直播",内蒙古卫视
-http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",内蒙古卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws
-#EXTINF:-1 group-title="直播",内蒙古卫视
-http://222.71.55.147:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",内蒙古卫视
 http://183.11.239.36:808/hls/60/index.m3u8
-#EXTINF:-1 group-title="直播",内蒙古卫视
-http://118.193.115.2:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",内蒙古卫视
-http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 #EXTINF:-1 group-title="直播",内蒙古卫视
 http://cssbyd.imwork.net:8082/hls/44/index.m3u8
 #EXTINF:-1 group-title="直播",内蒙古卫视
 http://121.199.48.54/live1/jsbv2b.m3u8?id=nmgws&usign=jCw-MkWk9oF-fhwQoml3pQ
-#EXTINF:-1 group-title="直播",内蒙古卫视
-http://61.138.99.166:10080/hls/31/index.m3u8
-#EXTINF:-1 group-title="直播",内蒙古卫视
-http://120.198.86.186:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",内蒙古卫视
-http://59.39.89.130:60901/tsfile/live/0125_21.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",内蒙古卫视
-http://218.13.170.98:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",内蒙少儿
 http://play1-qk.nmtv.cn/live/2318general.m3u8
 #EXTINF:-1 group-title="直播",内蒙少儿
@@ -2187,6 +2187,8 @@ http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 #EXTINF:-1 group-title="直播",凤凰中文
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 group-title="直播",凤凰中文
+http://119.125.131.84:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="直播",凤凰中文
 https://cdn.qd.je/163189/fhzw
 #EXTINF:-1 group-title="直播",凤凰中文
 http://cdn.163189.xyz/live/fhzw/stream.m3u8
@@ -2222,8 +2224,6 @@ http://iptv12k.com:35461/live/8032022060101/452381/997.m3u8
 http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="直播",凤凰中文
 http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",凤凰中文
-http://119.125.131.84:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="直播",凤凰卫视台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="直播",凤凰电影
@@ -2236,6 +2236,8 @@ http://jy.bhzz.today:2026/YY1/WMHS.php?id=3ea54960d444c595&t=53584109018891260&l
 http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 #EXTINF:-1 group-title="直播",凤凰资讯
 http://r.jdshipin.com/0Rp07
+#EXTINF:-1 group-title="直播",凤凰资讯
+http://119.125.131.84:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="直播",凤凰资讯
 https://cdn.qd.je/163189/fhzx
 #EXTINF:-1 group-title="直播",凤凰资讯
@@ -2272,8 +2274,6 @@ http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="直播",凤凰资讯
 http://8.138.7.223/tv/fengshows.php?id=fhzx
-#EXTINF:-1 group-title="直播",凤凰资讯
-http://119.125.131.84:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="直播",凤凰资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="直播",凤凰香港
@@ -2355,6 +2355,22 @@ http://121.199.48.54/live1/jsbv1.m3u8?id=btv6&usign=ShNU9ITdB2oK93iLtNl8mw
 #EXTINF:-1 group-title="直播",北京卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",北京卫视
+http://123.160.235.204:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",北京卫视
+http://112.123.243.37:50085/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",北京卫视
+http://58.54.146.106:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",北京卫视
+http://60.187.246.34:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",北京卫视
+http://204.12.221.218:8181/3m1080p/bjws.m3u8
+#EXTINF:-1 group-title="直播",北京卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0122_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",北京卫视
+http://124.90.45.52:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",北京卫视
+http://36.136.38.87:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 group-title="直播",北京卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
@@ -2372,8 +2388,6 @@ http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
 http://192.151.150.154/live/bjwshd.m3u8
 #EXTINF:-1 group-title="直播",北京卫视
 http://198.204.228.26/live/bjwshd.m3u8
-#EXTINF:-1 group-title="直播",北京卫视
-http://204.12.221.218:8181/3m1080p/bjws.m3u8
 #EXTINF:-1 group-title="直播",北京卫视
 http://2d026c.tv.netsite.cc/proxy/105545939/105545939.m3u8
 #EXTINF:-1 group-title="直播",北京卫视
@@ -2394,20 +2408,6 @@ http://183.11.239.36:808/hls/41/index.m3u8
 http://120.76.248.139/live/bfgd/4200000083.m3u8
 #EXTINF:-1 group-title="直播",北京卫视
 http://119.29.233.26:1234/630287636
-#EXTINF:-1 group-title="直播",北京卫视
-http://123.160.235.204:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",北京卫视
-http://112.123.243.37:50085/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",北京卫视
-http://58.54.146.106:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",北京卫视
-http://60.187.246.34:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",北京卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0122_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",北京卫视
-http://124.90.45.52:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",北京卫视
-http://36.136.38.87:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",北京密云古水北镇
 https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
 #EXTINF:-1 group-title="直播",北京新闻
@@ -2713,6 +2713,24 @@ http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",吉林卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",吉林卫视
+http://218.13.139.26:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",吉林卫视
+http://112.123.243.37:50085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",吉林卫视
+http://101.66.195.24:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",吉林卫视
+http://101.66.199.175:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",吉林卫视
+http://36.136.38.87:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",吉林卫视
+http://101.66.198.117:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",吉林卫视
+http://124.90.45.52:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",吉林卫视
+http://101.66.199.74:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",吉林卫视
+http://112.27.5.218:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",吉林卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 group-title="直播",吉林卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226386/index.m3u8
@@ -2733,15 +2751,11 @@ http://175.24.134.198:1234/947472500
 #EXTINF:-1 group-title="直播",吉林卫视
 http://49.87.154.246:85/tsfile/live/0116_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="直播",吉林卫视
-http://218.13.139.26:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",吉林卫视
 http://183.11.239.36:808/hls/10/index.m3u8
 #EXTINF:-1 group-title="直播",吉林卫视
 http://www.zknowl.com:1234/947472500
 #EXTINF:-1 group-title="直播",吉林卫视
 http://61.136.172.236:9901/tsfile/live/0116_1.m3u8
-#EXTINF:-1 group-title="直播",吉林卫视
-http://124.90.45.52:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",吉林卫视
 http://119.29.233.26:1234/947472500
 #EXTINF:-1 group-title="直播",吉林卫视
@@ -2750,20 +2764,6 @@ http://113.124.186.195:7788/947472500
 http://61.136.172.236:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",吉林卫视
 http://59.39.89.130:60901/tsfile/live/0125_19.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",吉林卫视
-http://36.136.38.87:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",吉林卫视
-http://112.123.243.37:50085/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",吉林卫视
-http://101.66.195.24:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",吉林卫视
-http://101.66.199.175:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",吉林卫视
-http://101.66.198.117:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",吉林卫视
-http://101.66.199.74:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",吉林卫视
-http://112.27.5.218:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",名山综合
 https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 #EXTINF:-1 group-title="直播",名山综合
@@ -2799,6 +2799,24 @@ https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84
 #EXTINF:-1 group-title="直播",四川卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",四川卫视
+http://101.66.195.24:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",四川卫视
+http://101.66.194.79:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",四川卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0123_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",四川卫视
+http://221.7.175.154:8445/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",四川卫视
+http://60.187.246.34:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",四川卫视
+http://101.66.199.74:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",四川卫视
+http://120.198.95.220:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="直播",四川卫视
+http://119.125.131.84:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="直播",四川卫视
+http://119.39.9.8:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",四川卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 group-title="直播",四川卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226513/index.m3u8
@@ -2831,25 +2849,7 @@ http://218.13.139.26:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",四川卫视
 http://120.76.248.139/live/bfgd/4200000103.m3u8
 #EXTINF:-1 group-title="直播",四川卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0123_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",四川卫视
 http://120.237.39.10:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="直播",四川卫视
-http://101.66.195.24:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",四川卫视
-http://101.66.194.79:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",四川卫视
-http://221.7.175.154:8445/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",四川卫视
-http://60.187.246.34:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",四川卫视
-http://101.66.199.74:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",四川卫视
-http://120.198.95.220:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="直播",四川卫视
-http://119.125.131.84:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="直播",四川卫视
-http://119.39.9.8:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="直播",四川四姑娘山幺妹峰
 https://gcalic.v.myalicdn.com/gc/sgns01_1/index.m3u8
 #EXTINF:-1 group-title="直播",四川峨眉山云海日出
@@ -2915,6 +2915,32 @@ http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",天津卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",天津卫视
+http://123.160.235.204:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",天津卫视
+http://112.123.243.37:50085/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",天津卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0135_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",天津卫视
+http://110.72.84.64:808/hls/1009/index.m3u8
+#EXTINF:-1 group-title="直播",天津卫视
+http://115.57.90.137:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",天津卫视
+http://110.72.84.44:808/hls/1009/index.m3u8
+#EXTINF:-1 group-title="直播",天津卫视
+http://204.12.221.218:8181/3m1080p/tjws.m3u8
+#EXTINF:-1 group-title="直播",天津卫视
+http://221.7.175.154:8445/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",天津卫视
+http://119.39.9.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",天津卫视
+http://124.90.45.52:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",天津卫视
+http://60.13.52.236:65500/newlive/live/hls/28/live.m3u8
+#EXTINF:-1 group-title="直播",天津卫视
+http://110.72.84.44:808/hls/20/index.m3u8
+#EXTINF:-1 group-title="直播",天津卫视
+http://110.72.84.64:808/hls/20/index.m3u8
+#EXTINF:-1 group-title="直播",天津卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 #EXTINF:-1 group-title="直播",天津卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
@@ -2933,37 +2959,11 @@ http://198.204.228.26/live/tjwshd.m3u8
 #EXTINF:-1 group-title="直播",天津卫视
 http://173.208.212.130:8181/720p/tjws.m3u8
 #EXTINF:-1 group-title="直播",天津卫视
-http://204.12.221.218:8181/3m1080p/tjws.m3u8
-#EXTINF:-1 group-title="直播",天津卫视
 http://sagrad.org:8181/3m1080p/tjws.m3u8
 #EXTINF:-1 group-title="直播",天津卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjwshd
 #EXTINF:-1 group-title="直播",天津卫视
 http://60.187.246.195:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",天津卫视
-http://123.160.235.204:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",天津卫视
-http://112.123.243.37:50085/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",天津卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0135_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",天津卫视
-http://110.72.84.64:808/hls/1009/index.m3u8
-#EXTINF:-1 group-title="直播",天津卫视
-http://115.57.90.137:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",天津卫视
-http://110.72.84.44:808/hls/1009/index.m3u8
-#EXTINF:-1 group-title="直播",天津卫视
-http://221.7.175.154:8445/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",天津卫视
-http://119.39.9.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",天津卫视
-http://124.90.45.52:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",天津卫视
-http://60.13.52.236:65500/newlive/live/hls/28/live.m3u8
-#EXTINF:-1 group-title="直播",天津卫视
-http://110.72.84.44:808/hls/20/index.m3u8
-#EXTINF:-1 group-title="直播",天津卫视
-http://110.72.84.64:808/hls/20/index.m3u8
 #EXTINF:-1 group-title="直播",天津新闻
 http://38.75.136.137:98/gslb/dsdqpub/tjtv1.m3u8?auth=testpub
 #EXTINF:-1 group-title="直播",天津新闻
@@ -3067,45 +3067,11 @@ http://120.76.248.139/live/bfgd/4200000118.m3u8
 #EXTINF:-1 group-title="直播",宁夏卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",宁夏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="直播",宁夏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-#EXTINF:-1 group-title="直播",宁夏卫视
-https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="直播",宁夏卫视
-https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 group-title="直播",宁夏卫视
-https://iptv.catvod.com/catvod.php?id=nxws
-#EXTINF:-1 group-title="直播",宁夏卫视
-http://sagrad.org:8181/3m1080p/nxws.m3u8
-#EXTINF:-1 group-title="直播",宁夏卫视
-http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
-#EXTINF:-1 group-title="直播",宁夏卫视
-http://107.150.60.122/live/nxws.m3u8
-#EXTINF:-1 group-title="直播",宁夏卫视
-http://192.151.150.154/live/nxws.m3u8
-#EXTINF:-1 group-title="直播",宁夏卫视
-http://198.204.228.26/live/nxws.m3u8
-#EXTINF:-1 group-title="直播",宁夏卫视
-http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",宁夏卫视
-http://116.237.170.51:7788/738910535
-#EXTINF:-1 group-title="直播",宁夏卫视
-http://175.24.134.198:1234/738910535
-#EXTINF:-1 group-title="直播",宁夏卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxws
-#EXTINF:-1 group-title="直播",宁夏卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
-#EXTINF:-1 group-title="直播",宁夏卫视
-http://113.124.186.195:7788/738910535
-#EXTINF:-1 group-title="直播",宁夏卫视
-http://www.zknowl.com:1234/738910535
-#EXTINF:-1 group-title="直播",宁夏卫视
-http://183.11.239.36:808/hls/106/index.m3u8
-#EXTINF:-1 group-title="直播",宁夏卫视
 http://120.198.86.186:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",宁夏卫视
 http://fuxin.yunjifei.top:999/tsfile/live/0112_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",宁夏卫视
+http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="直播",宁夏卫视
 http://222.71.55.147:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="直播",宁夏卫视
@@ -3126,6 +3092,40 @@ http://58.56.162.102:4466/newlive/live/hls/43/live.m3u8
 http://60.13.52.236:65500/newlive/live/hls/46/live.m3u8
 #EXTINF:-1 group-title="直播",宁夏卫视
 http://111.61.236.247:9081/hls/51/index.m3u8
+#EXTINF:-1 group-title="直播",宁夏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="直播",宁夏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+#EXTINF:-1 group-title="直播",宁夏卫视
+https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="直播",宁夏卫视
+https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+#EXTINF:-1 group-title="直播",宁夏卫视
+https://iptv.catvod.com/catvod.php?id=nxws
+#EXTINF:-1 group-title="直播",宁夏卫视
+http://sagrad.org:8181/3m1080p/nxws.m3u8
+#EXTINF:-1 group-title="直播",宁夏卫视
+http://38.75.136.137:98/gslb/dsdqpub/nxws.m3u8?auth=testpub
+#EXTINF:-1 group-title="直播",宁夏卫视
+http://107.150.60.122/live/nxws.m3u8
+#EXTINF:-1 group-title="直播",宁夏卫视
+http://192.151.150.154/live/nxws.m3u8
+#EXTINF:-1 group-title="直播",宁夏卫视
+http://198.204.228.26/live/nxws.m3u8
+#EXTINF:-1 group-title="直播",宁夏卫视
+http://116.237.170.51:7788/738910535
+#EXTINF:-1 group-title="直播",宁夏卫视
+http://175.24.134.198:1234/738910535
+#EXTINF:-1 group-title="直播",宁夏卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxws
+#EXTINF:-1 group-title="直播",宁夏卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
+#EXTINF:-1 group-title="直播",宁夏卫视
+http://113.124.186.195:7788/738910535
+#EXTINF:-1 group-title="直播",宁夏卫视
+http://www.zknowl.com:1234/738910535
+#EXTINF:-1 group-title="直播",宁夏卫视
+http://183.11.239.36:808/hls/106/index.m3u8
 #EXTINF:-1 group-title="直播",安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 group-title="直播",安多卫视
@@ -3153,6 +3153,22 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="直播",安徽卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",安徽卫视
+http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",安徽卫视
+http://60.223.94.153:9003/hls/23/index.m3u8
+#EXTINF:-1 group-title="直播",安徽卫视
+http://219.147.245.238:25480/newlive/live/hls/40/live.m3u8
+#EXTINF:-1 group-title="直播",安徽卫视
+http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",安徽卫视
+http://221.226.51.220:50081/newlive/live/hls/36/live.m3u8
+#EXTINF:-1 group-title="直播",安徽卫视
+http://218.13.139.26:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",安徽卫视
+http://124.90.45.52:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",安徽卫视
+http://49.87.154.246:85/tsfile/live/0130_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 group-title="直播",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8
@@ -3177,8 +3193,6 @@ http://58.56.162.102:4466/newlive/live/hls/21/live.m3u8
 #EXTINF:-1 group-title="直播",安徽卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ahwshd
 #EXTINF:-1 group-title="直播",安徽卫视
-http://221.226.51.220:50081/newlive/live/hls/36/live.m3u8
-#EXTINF:-1 group-title="直播",安徽卫视
 http://183.11.239.36:808/hls/40/index.m3u8
 #EXTINF:-1 group-title="直播",安徽卫视
 http://120.76.248.139/live/bfgd/4200000096.m3u8
@@ -3189,21 +3203,7 @@ http://61.136.172.236:9901/tsfile/live/0130_1.m3u8
 #EXTINF:-1 group-title="直播",安徽卫视
 http://58.57.40.22:9901/tsfile/live/1033_1.m3u8
 #EXTINF:-1 group-title="直播",安徽卫视
-http://218.13.139.26:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",安徽卫视
 http://60.187.246.195:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",安徽卫视
-http://112.123.243.37:50085/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",安徽卫视
-http://60.223.94.153:9003/hls/23/index.m3u8
-#EXTINF:-1 group-title="直播",安徽卫视
-http://219.147.245.238:25480/newlive/live/hls/40/live.m3u8
-#EXTINF:-1 group-title="直播",安徽卫视
-http://123.138.216.44:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",安徽卫视
-http://124.90.45.52:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",安徽卫视
-http://49.87.154.246:85/tsfile/live/0130_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="直播",安徽合肥新闻
 http://api2.52tb.xyz/info?id=587&token=20230405tndmhg
 #EXTINF:-1 group-title="直播",安徽综艺体育
@@ -3236,6 +3236,24 @@ http://58.57.40.22:9901/tsfile/live/1020_1.m3u8
 https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 #EXTINF:-1 group-title="直播",山东卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="直播",山东卫视
+http://123.160.235.204:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",山东卫视
+http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",山东卫视
+http://101.66.195.24:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",山东卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0131_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",山东卫视
+http://221.226.51.220:50081/newlive/live/hls/34/live.m3u8
+#EXTINF:-1 group-title="直播",山东卫视
+http://107.150.60.122/live/sdwshd.m3u8
+#EXTINF:-1 group-title="直播",山东卫视
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 group-title="直播",山东卫视
+http://124.90.45.52:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",山东卫视
+http://119.125.131.84:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="直播",山东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 #EXTINF:-1 group-title="直播",山东卫视
@@ -3271,25 +3289,7 @@ http://218.13.139.26:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",山东卫视
 http://58.56.162.102:4466/newlive/live/hls/47/live.m3u8
 #EXTINF:-1 group-title="直播",山东卫视
-http://221.226.51.220:50081/newlive/live/hls/34/live.m3u8
-#EXTINF:-1 group-title="直播",山东卫视
-http://124.90.45.52:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",山东卫视
 http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8
-#EXTINF:-1 group-title="直播",山东卫视
-http://123.160.235.204:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",山东卫视
-http://112.123.243.37:50085/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",山东卫视
-http://101.66.195.24:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",山东卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0131_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",山东卫视
-http://107.150.60.122/live/sdwshd.m3u8
-#EXTINF:-1 group-title="直播",山东卫视
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 group-title="直播",山东卫视
-http://119.125.131.84:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="直播",山东少儿
 http://58.57.40.22:9901/tsfile/live/1024_1.m3u8
 #EXTINF:-1 group-title="直播",山东少儿
@@ -3306,6 +3306,32 @@ http://121.199.48.54/live1/sdxw.m3u8?id=sdgg&usign=ShNU9ITdB2oK93iLtNl8mw
 https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="直播",山西卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="直播",山西卫视
+http://123.160.235.204:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",山西卫视
+http://60.223.94.153:9003/hls/16/index.m3u8
+#EXTINF:-1 group-title="直播",山西卫视
+http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
+#EXTINF:-1 group-title="直播",山西卫视
+http://101.66.195.24:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",山西卫视
+http://101.66.194.79:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",山西卫视
+http://101.66.199.175:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",山西卫视
+http://120.198.95.220:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="直播",山西卫视
+http://119.125.131.84:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="直播",山西卫视
+https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+#EXTINF:-1 group-title="直播",山西卫视
+http://124.90.45.52:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",山西卫视
+http://58.56.162.102:4466/newlive/live/hls/32/live.m3u8
+#EXTINF:-1 group-title="直播",山西卫视
+http://218.13.170.98:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",山西卫视
+http://59.39.89.130:60901/tsfile/live/0125_20.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",山西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 group-title="直播",山西卫视
@@ -3329,41 +3355,15 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sxwshd
 #EXTINF:-1 group-title="直播",山西卫视
 http://121.199.48.54/live1/sxtv.m3u8?id=sxws&usign=jCw-MkWk9oF-fhwQoml3pQ@@User-Agent=Mozilla/5.0@@
 #EXTINF:-1 group-title="直播",山西卫视
-http://58.56.162.102:4466/newlive/live/hls/32/live.m3u8
-#EXTINF:-1 group-title="直播",山西卫视
 http://121.199.48.54/live1/tidenew.m3u8?id=sxws&usign=jCw-MkWk9oF-fhwQoml3pQ@@User-Agent=Mozilla/5.0@@
 #EXTINF:-1 group-title="直播",山西卫视
 http://120.76.248.139/live/bfgd/4200000109.m3u8
 #EXTINF:-1 group-title="直播",山西卫视
 http://183.11.239.36:808/hls/59/index.m3u8
 #EXTINF:-1 group-title="直播",山西卫视
-http://124.90.45.52:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",山西卫视
-http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 group-title="直播",山西卫视
 http://113.15.109.216:59901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",山西卫视
 http://121.199.48.54/live1/jsbv2b.m3u8?id=sxwshd&usign=jCw-MkWk9oF-fhwQoml3pQ
-#EXTINF:-1 group-title="直播",山西卫视
-http://123.160.235.204:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",山西卫视
-http://60.223.94.153:9003/hls/16/index.m3u8
-#EXTINF:-1 group-title="直播",山西卫视
-http://101.66.195.24:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",山西卫视
-http://101.66.194.79:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",山西卫视
-http://101.66.199.175:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",山西卫视
-http://120.198.95.220:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="直播",山西卫视
-http://119.125.131.84:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="直播",山西卫视
-https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 group-title="直播",山西卫视
-http://218.13.170.98:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",山西卫视
-http://59.39.89.130:60901/tsfile/live/0125_20.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",嵊州新闻
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed?
 #EXTINF:-1 group-title="直播",嵊州新闻综合
@@ -3455,6 +3455,16 @@ https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIy
 #EXTINF:-1 group-title="直播",广东卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",广东卫视
+http://123.160.235.204:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",广东卫视
+http://101.66.195.24:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",广东卫视
+http://120.238.94.82:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="直播",广东卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0125_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",广东卫视
+http://124.90.45.52:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 group-title="直播",广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8
@@ -3492,16 +3502,6 @@ http://61.136.172.236:9901/tsfile/live/0125_1.m3u8
 http://58.56.162.102:4466/newlive/live/hls/25/live.m3u8
 #EXTINF:-1 group-title="直播",广东卫视
 http://113.124.186.195:7788/608831231
-#EXTINF:-1 group-title="直播",广东卫视
-http://123.160.235.204:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",广东卫视
-http://101.66.195.24:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",广东卫视
-http://120.238.94.82:9901/tsfile/live/1009_1.m3u8
-#EXTINF:-1 group-title="直播",广东卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0125_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",广东卫视
-http://124.90.45.52:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",广东新闻
 http://38.75.136.137:98/gslb/dsdqpub/gdxwa.m3u8?auth=testpub
 #EXTINF:-1 group-title="直播",广东新闻
@@ -3697,6 +3697,30 @@ http://121.199.48.54/live1/gdgztv.m3u8?id=gdgzzh&usign=ShNU9ITdB2oK93iLtNl8mw
 #EXTINF:-1 group-title="直播",广西卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",广西卫视
+http://123.160.235.204:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",广西卫视
+http://120.198.95.220:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="直播",广西卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0113_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",广西卫视
+http://221.7.175.154:8445/tsfile/live/0113_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",广西卫视
+http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",广西卫视
+http://101.66.195.24:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",广西卫视
+http://101.66.199.175:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",广西卫视
+http://101.66.198.117:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",广西卫视
+http://36.136.38.87:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",广西卫视
+http://124.90.45.52:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",广西卫视
+http://61.138.99.166:10080/hls/90/index.m3u8
+#EXTINF:-1 group-title="直播",广西卫视
+http://101.66.199.74:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",广西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 #EXTINF:-1 group-title="直播",广西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
@@ -3727,31 +3751,7 @@ https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f
 #EXTINF:-1 group-title="直播",广西卫视
 http://61.136.172.236:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",广西卫视
-http://124.90.45.52:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",广西卫视
 http://113.15.109.216:59901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",广西卫视
-http://112.123.243.37:50085/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",广西卫视
-http://36.136.38.87:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",广西卫视
-http://123.160.235.204:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",广西卫视
-http://120.198.95.220:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="直播",广西卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0113_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",广西卫视
-http://221.7.175.154:8445/tsfile/live/0113_2.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",广西卫视
-http://101.66.195.24:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",广西卫视
-http://101.66.199.175:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",广西卫视
-http://101.66.198.117:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",广西卫视
-http://61.138.99.166:10080/hls/90/index.m3u8
-#EXTINF:-1 group-title="直播",广西卫视
-http://101.66.199.74:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="直播",广西新闻
 http://38.75.136.137:98/gslb/dsdqpub/gxxw.m3u8?auth=testpub
 #EXTINF:-1 group-title="直播",广西新闻
@@ -3821,6 +3821,12 @@ http://120.76.248.139/live/bfgd/4200000117.m3u8
 #EXTINF:-1 group-title="直播",延边卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",延边卫视
+https://srs.iyb983.cn:443/video/CYS/index.m3u8
+#EXTINF:-1 group-title="直播",延边卫视
+https://srs.iyb983.cn/video/CYS/index.m3u8
+#EXTINF:-1 group-title="直播",延边卫视
+https://stream2.jlntv.cn/jlyb/sd/live.m3u8
+#EXTINF:-1 group-title="直播",延边卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 #EXTINF:-1 group-title="直播",延边卫视
 http://sagrad.org:8181/3m1080p/ybws.m3u8
@@ -3830,12 +3836,6 @@ http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 http://gmxw.7766.org:808/hls/15/index.m3u8
 #EXTINF:-1 group-title="直播",延边卫视
 http://stream2.jlntv.cn/jlyb/sd/live.m3u8
-#EXTINF:-1 group-title="直播",延边卫视
-https://srs.iyb983.cn:443/video/CYS/index.m3u8
-#EXTINF:-1 group-title="直播",延边卫视
-https://stream2.jlntv.cn/jlyb/sd/live.m3u8
-#EXTINF:-1 group-title="直播",延边卫视
-https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 group-title="直播",延边卫视
 http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 #EXTINF:-1 group-title="直播",延边卫视
@@ -3981,6 +3981,24 @@ http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:800
 #EXTINF:-1 group-title="直播",新疆卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",新疆卫视
+http://123.160.235.204:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",新疆卫视
+http://115.57.90.137:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",新疆卫视
+http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",新疆卫视
+http://120.198.86.186:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",新疆卫视
+http://222.71.55.147:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",新疆卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0110_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",新疆卫视
+http://113.25.252.226:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",新疆卫视
+http://112.123.243.37:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",新疆卫视
+http://59.39.89.130:60901/tsfile/live/0125_17.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",新疆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 group-title="直播",新疆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
@@ -4001,27 +4019,9 @@ http://192.151.150.154/live/xjws.m3u8
 #EXTINF:-1 group-title="直播",新疆卫视
 http://121.199.48.54/live1/xjtv.m3u8?id=xjws&usign=jCw-MkWk9oF-fhwQoml3pQ@@X-Forwarded-For=36.189.232.78@@
 #EXTINF:-1 group-title="直播",新疆卫视
-http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",新疆卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws
 #EXTINF:-1 group-title="直播",新疆卫视
-http://222.71.55.147:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",新疆卫视
 http://58.56.162.102:4466/newlive/live/hls/44/live.m3u8
-#EXTINF:-1 group-title="直播",新疆卫视
-http://123.160.235.204:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",新疆卫视
-http://115.57.90.137:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",新疆卫视
-http://120.198.86.186:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",新疆卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0110_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",新疆卫视
-http://113.25.252.226:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",新疆卫视
-http://112.123.243.37:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",新疆卫视
-http://59.39.89.130:60901/tsfile/live/0125_17.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",新疆奎屯汉语综合
 http://218.84.12.186:8001/hls/main/playlist.m3u8
 #EXTINF:-1 group-title="直播",新疆奎屯汉语综合
@@ -4313,6 +4313,22 @@ https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
 #EXTINF:-1 group-title="直播",江苏卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",江苏卫视
+http://112.123.243.37:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",江苏卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",江苏卫视
+http://221.7.175.154:8445/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",江苏卫视
+http://221.226.51.220:50081/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 group-title="直播",江苏卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0127_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",江苏卫视
+https://stream2.jlntv.cn/sytv/sd/live.m3u8
+#EXTINF:-1 group-title="直播",江苏卫视
+http://124.90.45.52:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",江苏卫视
+http://124.228.160.3:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1 group-title="直播",江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
@@ -4343,8 +4359,6 @@ http://116.237.170.51:7788/623899368
 #EXTINF:-1 group-title="直播",江苏卫视
 http://60.187.246.195:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",江苏卫视
-http://221.226.51.220:50081/newlive/live/hls/31/live.m3u8
-#EXTINF:-1 group-title="直播",江苏卫视
 http://175.24.134.198:1234/623899368
 #EXTINF:-1 group-title="直播",江苏卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
@@ -4352,20 +4366,6 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jswshd
 http://58.56.162.102:4466/newlive/live/hls/19/live.m3u8
 #EXTINF:-1 group-title="直播",江苏卫视
 http://121.199.48.54/live1/jstv1.m3u8?id=jswshd&usign=jCw-MkWk9oF-fhwQoml3pQ@@Referer=https://live.jstv.com/@@
-#EXTINF:-1 group-title="直播",江苏卫视
-http://112.123.243.37:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",江苏卫视
-http://112.27.5.218:9901/tsfile/live/faacts/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",江苏卫视
-http://221.7.175.154:8445/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",江苏卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0127_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",江苏卫视
-https://stream2.jlntv.cn/sytv/sd/live.m3u8
-#EXTINF:-1 group-title="直播",江苏卫视
-http://124.90.45.52:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",江苏卫视
-http://124.228.160.3:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",江苏卫视4K
 http://8.138.7.223/tv/jsws4k.php
 #EXTINF:-1 group-title="直播",江苏宿迁骆马湖罗曼园
@@ -4376,6 +4376,24 @@ https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8
 https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="直播",江西卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="直播",江西卫视
+http://123.160.235.204:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",江西卫视
+http://101.66.195.24:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",江西卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",江西卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0138_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",江西卫视
+http://107.150.60.122/live/jxwshd.m3u8
+#EXTINF:-1 group-title="直播",江西卫视
+http://60.187.246.34:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",江西卫视
+http://124.228.160.3:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",江西卫视
+http://119.39.9.8:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",江西卫视
+http://124.90.45.52:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 group-title="直播",江西卫视
@@ -4388,8 +4406,6 @@ http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
 http://192.151.150.154/live/jxwshd.m3u8
 #EXTINF:-1 group-title="直播",江西卫视
 http://198.204.228.26/live/jxwshd.m3u8
-#EXTINF:-1 group-title="直播",江西卫视
-http://107.150.60.122/live/jxwshd.m3u8
 #EXTINF:-1 group-title="直播",江西卫视
 http://204.12.221.218:8181/3m1080p/jxws.m3u8
 #EXTINF:-1 group-title="直播",江西卫视
@@ -4414,22 +4430,6 @@ http://119.29.233.26:1234/783847495
 http://113.124.186.195:7788/783847495
 #EXTINF:-1 group-title="直播",江西卫视
 http://58.57.40.22:9901/tsfile/live/1043_1.m3u8
-#EXTINF:-1 group-title="直播",江西卫视
-http://123.160.235.204:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",江西卫视
-http://101.66.195.24:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",江西卫视
-http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",江西卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0138_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",江西卫视
-http://60.187.246.34:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",江西卫视
-http://124.228.160.3:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",江西卫视
-http://119.39.9.8:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",江西卫视
-http://124.90.45.52:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",江西少儿家庭
 http://192.151.150.154/live/jxtv6.m3u8
 #EXTINF:-1 group-title="直播",江西少儿家庭
@@ -4473,6 +4473,20 @@ http://120.76.248.139/live/bfgd/4200000108.m3u8
 #EXTINF:-1 group-title="直播",河北卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",河北卫视
+http://112.123.243.37:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",河北卫视
+http://101.66.198.117:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",河北卫视
+http://221.7.175.154:8445/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",河北卫视
+http://36.136.38.87:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",河北卫视
+http://124.90.45.52:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",河北卫视
+http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+#EXTINF:-1 group-title="直播",河北卫视
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1854721069&k=ca557faf4d869ca5959ee951a3da2817
+#EXTINF:-1 group-title="直播",河北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 group-title="直播",河北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226448/index.m3u8
@@ -4495,8 +4509,6 @@ http://175.24.134.198:1234/962042070
 #EXTINF:-1 group-title="直播",河北卫视
 http://116.237.170.51:7788/962042070
 #EXTINF:-1 group-title="直播",河北卫视
-http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-#EXTINF:-1 group-title="直播",河北卫视
 http://119.29.233.26:1234/962042070
 #EXTINF:-1 group-title="直播",河北卫视
 http://www.zknowl.com:1234/962042070
@@ -4508,18 +4520,6 @@ http://218.13.139.26:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 http://58.57.40.22:9901/tsfile/live/1044_1.m3u8
 #EXTINF:-1 group-title="直播",河北卫视
 http://61.136.172.236:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",河北卫视
-http://124.90.45.52:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",河北卫视
-http://112.123.243.37:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",河北卫视
-http://101.66.198.117:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",河北卫视
-http://221.7.175.154:8445/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",河北卫视
-http://36.136.38.87:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1854721069&k=ca557faf4d869ca5959ee951a3da2817
 #EXTINF:-1 group-title="直播",河北少儿
 http://1.94.31.214/php/hebei.php?id=sekj
 #EXTINF:-1 group-title="直播",河北少儿科教
@@ -4532,6 +4532,20 @@ http://121.199.48.54/live1/hetv.m3u8?id=hese&usign=ShNU9ITdB2oK93iLtNl8mw
 http://8.138.7.223/tv/heb.php?id=0005
 #EXTINF:-1 group-title="直播",河北少儿科教
 http://8.138.7.223/tv/heb.php?id=00051
+#EXTINF:-1 group-title="直播",河南卫视
+http://123.160.235.204:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",河南卫视
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=82614bd68c4cd423cc34384a0ab0fc31&wsTime=1795637002
+#EXTINF:-1 group-title="直播",河南卫视
+https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
+#EXTINF:-1 group-title="直播",河南卫视
+http://221.7.175.154:8445/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",河南卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hawshd
+#EXTINF:-1 group-title="直播",河南卫视
+http://124.90.45.52:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",河南卫视
+http://119.39.9.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="直播",河南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 group-title="直播",河南卫视
@@ -4551,8 +4565,6 @@ http://175.24.134.198:1234/790187291
 #EXTINF:-1 group-title="直播",河南卫视
 http://116.237.170.51:7788/790187291
 #EXTINF:-1 group-title="直播",河南卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hawshd
-#EXTINF:-1 group-title="直播",河南卫视
 http://61.136.172.236:9901/tsfile/live/0139_1.m3u8
 #EXTINF:-1 group-title="直播",河南卫视
 http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -4565,23 +4577,11 @@ http://120.76.248.139/live/bfgd/4200000339.m3u8
 #EXTINF:-1 group-title="直播",河南卫视
 http://119.29.233.26:1234/790187291
 #EXTINF:-1 group-title="直播",河南卫视
-http://124.90.45.52:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",河南卫视
 http://58.57.40.22:9901/tsfile/live/1048_1.m3u8
 #EXTINF:-1 group-title="直播",河南卫视
 http://183.11.239.36:808/hls/51/index.m3u8
 #EXTINF:-1 group-title="直播",河南卫视
 http://36.136.38.87:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",河南卫视
-http://123.160.235.204:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=82614bd68c4cd423cc34384a0ab0fc31&wsTime=1795637002
-#EXTINF:-1 group-title="直播",河南卫视
-https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=985ebb910dd1e9ad9603ffd7670bd155&wsTime=1791183481
-#EXTINF:-1 group-title="直播",河南卫视
-http://221.7.175.154:8445/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",河南卫视
-http://119.39.9.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="直播",泗洪新闻综合
 http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
 #EXTINF:-1 group-title="直播",泗阳综合频道
@@ -4637,11 +4637,19 @@ http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="直播",浙江卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",浙江卫视
+http://123.160.235.204:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",浙江卫视
+http://112.123.243.37:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",浙江卫视
+http://101.66.195.24:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",浙江卫视
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+#EXTINF:-1 group-title="直播",浙江卫视
+http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+#EXTINF:-1 group-title="直播",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 group-title="直播",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-#EXTINF:-1 group-title="直播",浙江卫视
-http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 group-title="直播",浙江卫视
 http://38.75.136.137:98/gslb/dsdqca/zjwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",浙江卫视
@@ -4676,14 +4684,6 @@ http://58.57.40.22:9901/tsfile/live/1029_1.m3u8
 http://120.76.248.139/live/bfgd/4200000094.m3u8
 #EXTINF:-1 group-title="直播",浙江卫视
 https://www.yangshipin.cn/tv/home?pid=600002520
-#EXTINF:-1 group-title="直播",浙江卫视
-http://123.160.235.204:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",浙江卫视
-http://112.123.243.37:50085/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",浙江卫视
-http://101.66.195.24:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",浙江卫视
-http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 #EXTINF:-1 group-title="直播",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?
 #EXTINF:-1 group-title="直播",浙江国际
@@ -4959,6 +4959,10 @@ http://120.76.248.139/live/bfgd/4200000473.m3u8
 #EXTINF:-1 group-title="直播",海南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",海南卫视
+http://110.72.84.64:808/hls/1/index.m3u8
+#EXTINF:-1 group-title="直播",海南卫视
+http://61.138.99.166:10080/hls/99/index.m3u8
+#EXTINF:-1 group-title="直播",海南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="直播",海南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
@@ -4996,10 +5000,6 @@ http://116.52.173.186:1234/947472502
 http://fuxin.yunjifei.top:999/tsfile/live/1010_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="直播",海南卫视
 http://218.13.170.98:9901/tsfile/live/1020_1.m3u8
-#EXTINF:-1 group-title="直播",海南卫视
-http://110.72.84.64:808/hls/1/index.m3u8
-#EXTINF:-1 group-title="直播",海南卫视
-http://61.138.99.166:10080/hls/99/index.m3u8
 #EXTINF:-1 group-title="直播",海南少儿
 http://121.199.48.54/live1/hitv.m3u8?id=hiqs&usign=jCw-MkWk9oF-fhwQoml3pQ
 #EXTINF:-1 group-title="直播",海南少儿
@@ -5105,6 +5105,22 @@ https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
 #EXTINF:-1 group-title="直播",深圳卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",深圳卫视
+http://123.160.235.204:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",深圳卫视
+http://112.123.243.37:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",深圳卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0126_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",深圳卫视
+http://119.125.131.84:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="直播",深圳卫视
+http://58.56.162.102:4466/newlive/live/hls/24/live.m3u8
+#EXTINF:-1 group-title="直播",深圳卫视
+http://124.90.45.52:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",深圳卫视
+http://119.39.9.8:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",深圳卫视
+http://124.228.160.3:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 #EXTINF:-1 group-title="直播",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
@@ -5142,22 +5158,6 @@ http://183.11.239.36:808/hls/45/index.m3u8
 http://58.57.40.22:9901/tsfile/live/1036_1.m3u8
 #EXTINF:-1 group-title="直播",深圳卫视
 http://59.39.89.130:60901/tsfile/live/0125_11.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",深圳卫视
-http://124.90.45.52:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",深圳卫视
-http://123.160.235.204:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",深圳卫视
-http://112.123.243.37:50085/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",深圳卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0126_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",深圳卫视
-http://119.125.131.84:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="直播",深圳卫视
-http://58.56.162.102:4466/newlive/live/hls/24/live.m3u8
-#EXTINF:-1 group-title="直播",深圳卫视
-http://119.39.9.8:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",深圳卫视
-http://124.228.160.3:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",深圳少儿
 http://183.11.239.36:808/hls/157/index.m3u8
 #EXTINF:-1 group-title="直播",深圳少儿
@@ -5191,6 +5191,18 @@ http://pili-live-hls.hfmt.net/gntv/mqtv.m3u8?gansu
 #EXTINF:-1 group-title="直播",湖北卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",湖北卫视
+http://101.66.195.24:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",湖北卫视
+http://110.72.84.64:808/hls/1010/index.m3u8
+#EXTINF:-1 group-title="直播",湖北卫视
+http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="直播",湖北卫视
+http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
+#EXTINF:-1 group-title="直播",湖北卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0132_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",湖北卫视
+http://124.90.45.52:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",湖北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 #EXTINF:-1 group-title="直播",湖北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
@@ -5200,8 +5212,6 @@ http://38.75.136.137:82/live2/hbtv.m3u8?id=hbwshd&usign=jCw-MkWk9oF-fhwQoml3pQ@@
 http://38.75.136.137:98/gslb/dsdqca/hbwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="直播",湖北卫视
 https://iptv.catvod.com/catvod.php?id=hubws
-#EXTINF:-1 group-title="直播",湖北卫视
-http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="直播",湖北卫视
 http://192.151.150.154/live/hbwshd.m3u8
 #EXTINF:-1 group-title="直播",湖北卫视
@@ -5230,16 +5240,6 @@ http://120.76.248.139/live/bfgd/4200000102.m3u8
 http://www.zknowl.com:1234/947472496
 #EXTINF:-1 group-title="直播",湖北卫视
 http://61.136.172.236:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",湖北卫视
-http://101.66.195.24:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",湖北卫视
-http://110.72.84.64:808/hls/1010/index.m3u8
-#EXTINF:-1 group-title="直播",湖北卫视
-http://120.40.39.246:352/newlive/live/hls/36/live.m3u8
-#EXTINF:-1 group-title="直播",湖北卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0132_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",湖北卫视
-http://124.90.45.52:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",湖北综合
 http://38.75.136.137:82/live2/hbtv.m3u8?id=hbzh&usign=jCw-MkWk9oF-fhwQoml3pQ@@Referer=https://m.hbtv.com.cn/@@
 #EXTINF:-1 group-title="直播",湖北综合
@@ -5257,13 +5257,29 @@ http://38.75.136.137:82/live2/hbtv.m3u8?id=hbzh&usign=ShNU9ITdB2oK93iLtNl8mw@@Re
 #EXTINF:-1 group-title="直播",湖南公共
 http://223.159.9.168:8099/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0,0.47,1920x1080
 #EXTINF:-1 group-title="直播",湖南卫视
-http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
-#EXTINF:-1 group-title="直播",湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 group-title="直播",湖南卫视
+http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
 #EXTINF:-1 group-title="直播",湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 group-title="直播",湖南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2
+#EXTINF:-1 group-title="直播",湖南卫视
+http://123.160.235.204:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",湖南卫视
+http://112.123.243.37:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",湖南卫视
+http://101.66.199.175:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",湖南卫视
+http://58.54.146.106:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",湖南卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0128_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",湖南卫视
+http://221.7.175.154:8445/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",湖南卫视
+http://124.90.45.52:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",湖南卫视
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1 group-title="直播",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 group-title="直播",湖南卫视
@@ -5304,22 +5320,6 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnwshd
 http://221.226.51.220:50081/newlive/live/hls/29/live.m3u8
 #EXTINF:-1 group-title="直播",湖南卫视
 http://58.57.40.22:9901/tsfile/live/1028_1.m3u8
-#EXTINF:-1 group-title="直播",湖南卫视
-http://123.160.235.204:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",湖南卫视
-http://112.123.243.37:50085/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",湖南卫视
-http://101.66.199.175:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",湖南卫视
-http://58.54.146.106:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",湖南卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0128_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",湖南卫视
-http://221.7.175.154:8445/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",湖南卫视
-http://124.90.45.52:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",湖南卫视
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1 group-title="直播",湖南国际
 http://192.151.150.154/live/hngj.m3u8
 #EXTINF:-1 group-title="直播",湖南国际
@@ -5685,6 +5685,12 @@ http://pili-live-hls.hfmt.net/gntv/gnhytv.m3u8?zgand
 #EXTINF:-1 group-title="直播",甘肃卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",甘肃卫视
+https://live.gstv.com.cn/live/oxfhvoy.m3u8
+#EXTINF:-1 group-title="直播",甘肃卫视
+http://112.123.243.37:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",甘肃卫视
+http://120.238.84.45:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",甘肃卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 group-title="直播",甘肃卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8
@@ -5717,15 +5723,9 @@ http://58.56.162.102:4466/newlive/live/hls/46/live.m3u8
 #EXTINF:-1 group-title="直播",甘肃卫视
 http://120.198.86.186:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",甘肃卫视
-http://112.123.243.37:50085/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",甘肃卫视
 http://cssbyd.imwork.net:8082/hls/48/index.m3u8
 #EXTINF:-1 group-title="直播",甘肃卫视
 http://118.193.115.2:9901/tsfile/live/0139_2.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",甘肃卫视
-https://live.gstv.com.cn/live/oxfhvoy.m3u8
-#EXTINF:-1 group-title="直播",甘肃卫视
-http://120.238.84.45:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",甘肃少儿
 https://live.gstv.com.cn/live/456r6be.m3u8
 #EXTINF:-1 group-title="直播",番禺综合
@@ -6029,6 +6029,28 @@ https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1
 #EXTINF:-1 group-title="直播",西藏卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",西藏卫视
+http://221.7.175.154:8445/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",西藏卫视
+http://198.204.228.26/live/xzws.m3u8
+#EXTINF:-1 group-title="直播",西藏卫视
+http://222.71.55.147:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",西藏卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0111_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",西藏卫视
+http://222.71.55.147:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",西藏卫视
+http://120.198.86.186:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",西藏卫视
+http://112.123.243.37:50085/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",西藏卫视
+http://59.39.89.130:60901/tsfile/live/0125_4.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",西藏卫视
+http://58.56.162.102:4466/newlive/live/hls/45/live.m3u8
+#EXTINF:-1 group-title="直播",西藏卫视
+http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",西藏卫视
+http://218.13.170.98:9901/tsfile/live/0111_1.m3u8
+#EXTINF:-1 group-title="直播",西藏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 group-title="直播",西藏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
@@ -6045,37 +6067,15 @@ http://198.204.228.26/live/xzwshd.m3u8
 #EXTINF:-1 group-title="直播",西藏卫视
 http://192.151.150.154/live/xzws.m3u8
 #EXTINF:-1 group-title="直播",西藏卫视
-http://198.204.228.26/live/xzws.m3u8
-#EXTINF:-1 group-title="直播",西藏卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzwshd
 #EXTINF:-1 group-title="直播",西藏卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xzws
 #EXTINF:-1 group-title="直播",西藏卫视
-http://222.71.55.147:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",西藏卫视
-http://222.71.55.147:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",西藏卫视
-http://58.56.162.102:4466/newlive/live/hls/45/live.m3u8
-#EXTINF:-1 group-title="直播",西藏卫视
 http://183.11.239.36:808/hls/64/index.m3u8
-#EXTINF:-1 group-title="直播",西藏卫视
-http://218.13.170.98:9901/tsfile/live/0111_1.m3u8
-#EXTINF:-1 group-title="直播",西藏卫视
-http://59.39.89.130:60901/tsfile/live/0125_4.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",西藏卫视
 http://120.76.248.139/live/bfgd/4200000121.m3u8
 #EXTINF:-1 group-title="直播",西藏卫视
 http://59.39.89.130:60901/tsfile/live/0125_3.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",西藏卫视
-http://221.7.175.154:8445/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",西藏卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0111_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",西藏卫视
-http://120.198.86.186:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",西藏卫视
-http://112.123.243.37:50085/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",西藏卫视
-http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",觅食者-美食纪录片
 https://live.metshop.top/yy/1382736841
 #EXTINF:-1 group-title="直播",诸暨新闻综合
@@ -6098,6 +6098,20 @@ http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
 https://live.264788.xyz/channel/guizhouweishi?streamid=091bd59ea031989839c23459bb8cc9d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="直播",贵州卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="直播",贵州卫视
+http://112.123.243.37:50085/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",贵州卫视
+http://101.66.195.24:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",贵州卫视
+http://101.66.198.117:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",贵州卫视
+http://119.125.131.84:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="直播",贵州卫视
+http://221.226.51.220:50081/newlive/live/hls/39/live.m3u8
+#EXTINF:-1 group-title="直播",贵州卫视
+http://36.136.38.87:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",贵州卫视
+http://124.90.45.52:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",贵州卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 group-title="直播",贵州卫视
@@ -6129,23 +6143,9 @@ http://58.56.162.102:4466/newlive/live/hls/41/live.m3u8
 #EXTINF:-1 group-title="直播",贵州卫视
 http://183.11.239.36:808/hls/49/index.m3u8
 #EXTINF:-1 group-title="直播",贵州卫视
-http://124.90.45.52:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",贵州卫视
 http://121.199.48.54/live1/gztv.m3u8?id=gzws&usign=jCw-MkWk9oF-fhwQoml3pQ@@Referer=https://www.gzstv.com/@@
 #EXTINF:-1 group-title="直播",贵州卫视
 http://113.15.109.216:59901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",贵州卫视
-http://221.226.51.220:50081/newlive/live/hls/39/live.m3u8
-#EXTINF:-1 group-title="直播",贵州卫视
-http://112.123.243.37:50085/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",贵州卫视
-http://101.66.195.24:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",贵州卫视
-http://101.66.198.117:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",贵州卫视
-http://119.125.131.84:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="直播",贵州卫视
-http://36.136.38.87:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",贾汪新闻频道
 http://121.199.48.54/live1/jstv1.m3u8?id=jsxzjw1&usign=jCw-MkWk9oF-fhwQoml3pQ@@Referer=https://live.jstv.com/@@
 #EXTINF:-1 group-title="直播",贾汪新闻频道
@@ -6193,6 +6193,24 @@ kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=lnty&usign=ShNU9ITdB2oK9
 #EXTINF:-1 group-title="直播",辽宁卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",辽宁卫视
+http://123.160.235.204:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",辽宁卫视
+http://112.123.243.37:50085/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",辽宁卫视
+http://101.66.194.79:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",辽宁卫视
+http://218.13.139.26:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",辽宁卫视
+http://221.7.175.154:8445/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",辽宁卫视
+http://198.204.228.26/live/lnwshd.m3u8
+#EXTINF:-1 group-title="直播",辽宁卫视
+http://58.56.162.102:4466/newlive/live/hls/26/live.m3u8
+#EXTINF:-1 group-title="直播",辽宁卫视
+http://124.90.45.52:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",辽宁卫视
+http://119.39.9.8:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",辽宁卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 group-title="直播",辽宁卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
@@ -6204,8 +6222,6 @@ https://iptv.catvod.com/catvod.php?id=lnws
 http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 #EXTINF:-1 group-title="直播",辽宁卫视
 http://192.151.150.154/live/lnwshd.m3u8
-#EXTINF:-1 group-title="直播",辽宁卫视
-http://198.204.228.26/live/lnwshd.m3u8
 #EXTINF:-1 group-title="直播",辽宁卫视
 http://204.12.221.218:8181/3m1080p/lnws.m3u8
 #EXTINF:-1 group-title="直播",辽宁卫视
@@ -6232,22 +6248,6 @@ http://61.136.172.236:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=
 http://119.29.233.26:1234/630291707
 #EXTINF:-1 group-title="直播",辽宁卫视
 http://www.zknowl.com:1234/630291707
-#EXTINF:-1 group-title="直播",辽宁卫视
-http://123.160.235.204:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",辽宁卫视
-http://112.123.243.37:50085/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",辽宁卫视
-http://101.66.194.79:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",辽宁卫视
-http://218.13.139.26:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",辽宁卫视
-http://221.7.175.154:8445/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",辽宁卫视
-http://58.56.162.102:4466/newlive/live/hls/26/live.m3u8
-#EXTINF:-1 group-title="直播",辽宁卫视
-http://124.90.45.52:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",辽宁卫视
-http://119.39.9.8:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="直播",辽阳新闻综合
 http://120.76.248.139/live/bfgd/4200000280.m3u8
 #EXTINF:-1 group-title="直播",辽阳新闻综合
@@ -6293,6 +6293,32 @@ https://p2.ioioz.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202611261306/app_2
 #EXTINF:-1 group-title="直播",重庆卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",重庆卫视
+http://123.160.235.204:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",重庆卫视
+http://101.66.195.24:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",重庆卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0142_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",重庆卫视
+http://221.7.175.154:8445/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",重庆卫视
+http://218.13.139.26:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",重庆卫视
+http://60.187.246.34:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",重庆卫视
+http://112.123.243.37:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",重庆卫视
+http://119.39.9.8:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",重庆卫视
+http://124.90.45.52:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",重庆卫视
+http://110.72.84.64:808/hls/33/index.m3u8
+#EXTINF:-1 group-title="直播",重庆卫视
+http://110.72.84.44:808/hls/33/index.m3u8
+#EXTINF:-1 group-title="直播",重庆卫视
+http://60.13.52.236:65500/newlive/live/hls/37/live.m3u8
+#EXTINF:-1 group-title="直播",重庆卫视
+http://119.125.131.84:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="直播",重庆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 group-title="直播",重庆卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
@@ -6332,32 +6358,6 @@ http://www.zknowl.com:1234/738910914
 http://183.11.239.36:808/hls/53/index.m3u8
 #EXTINF:-1 group-title="直播",重庆卫视
 http://119.29.233.26:1234/738910914
-#EXTINF:-1 group-title="直播",重庆卫视
-http://123.160.235.204:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",重庆卫视
-http://101.66.195.24:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",重庆卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0142_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",重庆卫视
-http://221.7.175.154:8445/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",重庆卫视
-http://218.13.139.26:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",重庆卫视
-http://60.187.246.34:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",重庆卫视
-http://112.123.243.37:50085/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",重庆卫视
-http://119.39.9.8:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",重庆卫视
-http://124.90.45.52:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",重庆卫视
-http://110.72.84.64:808/hls/33/index.m3u8
-#EXTINF:-1 group-title="直播",重庆卫视
-http://110.72.84.44:808/hls/33/index.m3u8
-#EXTINF:-1 group-title="直播",重庆卫视
-http://60.13.52.236:65500/newlive/live/hls/37/live.m3u8
-#EXTINF:-1 group-title="直播",重庆卫视
-http://119.125.131.84:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&down=1
 #EXTINF:-1 group-title="直播",重庆汽摩
 http://38.75.136.137:98/gslb/dsdqpub/cqqm.m3u8?auth=testpub
 #EXTINF:-1 group-title="直播",重庆汽摩
@@ -6439,6 +6439,28 @@ https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2
 #EXTINF:-1 group-title="直播",陕西卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",陕西卫视
+http://222.71.55.147:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",陕西卫视
+http://101.66.195.24:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",陕西卫视
+http://101.66.199.175:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",陕西卫视
+http://119.125.131.84:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 group-title="直播",陕西卫视
+http://101.66.198.117:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",陕西卫视
+http://36.136.38.87:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",陕西卫视
+http://60.223.94.153:9003/hls/21/index.m3u8
+#EXTINF:-1 group-title="直播",陕西卫视
+http://58.56.162.102:4466/newlive/live/hls/29/live.m3u8
+#EXTINF:-1 group-title="直播",陕西卫视
+http://124.90.45.52:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",陕西卫视
+http://60.13.52.236:65500/newlive/live/hls/38/live.m3u8
+#EXTINF:-1 group-title="直播",陕西卫视
+http://by4.nty.tv189.cn/live/tm-yssxws-4000k.m3u8
+#EXTINF:-1 group-title="直播",陕西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 #EXTINF:-1 group-title="直播",陕西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
@@ -6461,37 +6483,15 @@ http://sagrad.org:8181/3m1080p/snws.m3u8
 #EXTINF:-1 group-title="直播",陕西卫视
 http://116.237.170.51:7788/738910838
 #EXTINF:-1 group-title="直播",陕西卫视
-http://222.71.55.147:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",陕西卫视
 http://175.24.134.198:1234/738910838
 #EXTINF:-1 group-title="直播",陕西卫视
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=snwshd
-#EXTINF:-1 group-title="直播",陕西卫视
-http://58.56.162.102:4466/newlive/live/hls/29/live.m3u8
 #EXTINF:-1 group-title="直播",陕西卫视
 http://www.zknowl.com:1234/738910838
 #EXTINF:-1 group-title="直播",陕西卫视
 http://218.13.139.26:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",陕西卫视
 http://119.29.233.26:1234/738910838
-#EXTINF:-1 group-title="直播",陕西卫视
-http://124.90.45.52:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",陕西卫视
-http://101.66.195.24:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",陕西卫视
-http://101.66.199.175:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",陕西卫视
-http://119.125.131.84:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
-#EXTINF:-1 group-title="直播",陕西卫视
-http://101.66.198.117:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",陕西卫视
-http://36.136.38.87:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",陕西卫视
-http://60.223.94.153:9003/hls/21/index.m3u8
-#EXTINF:-1 group-title="直播",陕西卫视
-http://60.13.52.236:65500/newlive/live/hls/38/live.m3u8
-#EXTINF:-1 group-title="直播",陕西卫视
-http://by4.nty.tv189.cn/live/tm-yssxws-4000k.m3u8
 #EXTINF:-1 group-title="直播",陕西新闻咨询
 http://112.46.105.20:8009/hls/18/index.m3u8
 #EXTINF:-1 group-title="直播",陕西新闻资讯
@@ -6519,6 +6519,26 @@ http://1.94.31.214/php/qilu.php?id=wfqzzh
 #EXTINF:-1 group-title="直播",青海卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",青海卫视
+http://123.160.235.204:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",青海卫视
+http://218.13.139.26:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",青海卫视
+http://112.27.5.218:9901/tsfile/live/faacts/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",青海卫视
+http://121.19.134.48:808/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",青海卫视
+http://113.25.252.226:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",青海卫视
+http://61.138.99.166:10080/hls/96/index.m3u8
+#EXTINF:-1 group-title="直播",青海卫视
+http://124.90.45.52:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",青海卫视
+http://120.238.84.45:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",青海卫视
+http://120.198.86.186:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",青海卫视
+http://60.13.52.236:65500/newlive/live/hls/44/live.m3u8
+#EXTINF:-1 group-title="直播",青海卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 group-title="直播",青海卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
@@ -6545,35 +6565,15 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=qhws
 #EXTINF:-1 group-title="直播",青海卫视
 http://116.237.170.51:7788/947472506
 #EXTINF:-1 group-title="直播",青海卫视
-http://124.90.45.52:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",青海卫视
 http://www.zknowl.com:1234/947472506
 #EXTINF:-1 group-title="直播",青海卫视
 http://120.76.248.139/live/bfgd/4200000111.m3u8
-#EXTINF:-1 group-title="直播",青海卫视
-http://218.13.139.26:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",青海卫视
 http://113.124.186.195:7788/947472506
 #EXTINF:-1 group-title="直播",青海卫视
 http://58.56.162.102:4466/newlive/live/hls/42/live.m3u8
 #EXTINF:-1 group-title="直播",青海卫视
 http://119.29.233.26:1234/947472506
-#EXTINF:-1 group-title="直播",青海卫视
-http://123.160.235.204:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",青海卫视
-http://112.27.5.218:9901/tsfile/live/faacts/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",青海卫视
-http://121.19.134.48:808/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",青海卫视
-http://113.25.252.226:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",青海卫视
-http://61.138.99.166:10080/hls/96/index.m3u8
-#EXTINF:-1 group-title="直播",青海卫视
-http://120.238.84.45:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",青海卫视
-http://120.198.86.186:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",青海卫视
-http://60.13.52.236:65500/newlive/live/hls/44/live.m3u8
 #EXTINF:-1 group-title="直播",靖天综合台
 http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
 #EXTINF:-1 group-title="直播",靖宇综合
@@ -6643,19 +6643,31 @@ https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 group-title="直播",黑龙江卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="直播",黑龙江卫视
+http://112.123.243.37:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",黑龙江卫视
+http://101.66.194.79:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="直播",黑龙江卫视
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd
+#EXTINF:-1 group-title="直播",黑龙江卫视
+http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="直播",黑龙江卫视
+http://fuxin.yunjifei.top:999/tsfile/live/0143_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="直播",黑龙江卫视
+http://120.40.39.246:352/newlive/live/hls/38/live.m3u8
+#EXTINF:-1 group-title="直播",黑龙江卫视
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+#EXTINF:-1 group-title="直播",黑龙江卫视
+http://124.90.45.52:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="直播",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 group-title="直播",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8
 #EXTINF:-1 group-title="直播",黑龙江卫视
 https://iptv.catvod.com/catvod.php?id=hljws
 #EXTINF:-1 group-title="直播",黑龙江卫视
-http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="直播",黑龙江卫视
 https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
 #EXTINF:-1 group-title="直播",黑龙江卫视
 http://107.150.60.122/live/hljwshd.m3u8
-#EXTINF:-1 group-title="直播",黑龙江卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd
 #EXTINF:-1 group-title="直播",黑龙江卫视
 http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",黑龙江卫视
@@ -6677,21 +6689,9 @@ http://119.29.233.26:1234/738906901
 #EXTINF:-1 group-title="直播",黑龙江卫视
 http://218.13.170.98:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="直播",黑龙江卫视
-http://124.90.45.52:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",黑龙江卫视
 http://183.11.239.36:808/hls/48/index.m3u8
 #EXTINF:-1 group-title="直播",黑龙江卫视
 http://113.15.109.216:59901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="直播",黑龙江卫视
-http://112.123.243.37:50085/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",黑龙江卫视
-http://101.66.194.79:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="直播",黑龙江卫视
-http://fuxin.yunjifei.top:999/tsfile/live/0143_1.m3u8?key=txiptv
-#EXTINF:-1 group-title="直播",黑龙江卫视
-http://120.40.39.246:352/newlive/live/hls/38/live.m3u8
-#EXTINF:-1 group-title="直播",黑龙江卫视
-http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 #EXTINF:-1 group-title="直播",黑龙江少儿
 http://112.99.195.122:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="直播",黑龙江少儿
