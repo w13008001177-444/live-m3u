@@ -27,6 +27,9 @@ jobs:
         run: python update_live.py
 
       - name: Commit and push live.m3u
+        env:
+          GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -37,3 +40,7 @@ jobs:
             git commit -m "update live.m3u"
             git push
           fi
+
+          BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          git remote add gitee https://${GITEE_USERNAME}:${GITEE_TOKEN}@gitee.com/${GITEE_USERNAME}/live-m3u.git || true
+          git push gitee HEAD:refs/heads/${BRANCH} --force
